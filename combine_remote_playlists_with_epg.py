@@ -21,6 +21,8 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/hou-tx-hdhr.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/miami-wpb-fl-hdhr.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/otto-hdhr/refs/heads/main/pittsburgh-pa1-hdhr.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/iheart1.m3u8", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/mc2.m3u8", 
         "https://github.com/BuddyChewChew/sports/raw/refs/heads/main/liveeventsfilter.m3u8", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
