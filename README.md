@@ -4,10 +4,13 @@ First off I'd like to thank BuddyChewChew who created this script. I have modifi
 ## ⭐ PLAYLISTS
 
 UPDATE:
+02/26/26 Removed PlutoUS
 02/24/26 New 11 streams
 02/06/26 7 Streams in Total
 
 ▶️ One big playlist with EPG included. If EPG is incorrect please place an issue. 
+
+Heads up everyone – Pluto TV rolled out some config changes on their end, which broke PlutoUS playlist. I've had to remove it for now until they (or a workaround) fixes it. Sorry for the inconvenience, stay tuned!
 
 M3U: https://raw.githubusercontent.com/iptv2025tx/Combined/refs/heads/main/combined_playlist.m3u
 
