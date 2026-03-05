@@ -12,7 +12,14 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/estrella.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/us_shopping.m3u8", 
         "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/plex_us.m3u", 
-        "https://github.com/iptv2025tx/app-m3u-generator/raw/refs/heads/main/playlists/plutotv_all.m3u",
+        "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plutotv_es.m3u",
+        "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plutotv_fr.m3u",
+        "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plutotv_gb.m3u",
+        "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plutotv_mx.m3u",
+        "https://raw.githubusercontent.com/iptv2025tx/app-m3u-generator/refs/heads/main/playlists/plutotv_us.m3u",
+        "",
+        "",
+        "",
         "https://raw.githubusercontent.com/BuddyChewChew/app-m3u-generator/refs/heads/main/playlists/samsungtvplus_us.m3u", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/apsattv/distro-w-epg.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/direct/dancetv.m3u8",
@@ -28,8 +35,7 @@ PLAYLISTS = [
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/HDHR/scranton-pa-hdhr.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/roku.m3u8", 
         "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/Curated/iheart1.m3u8", 
-        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/diablo.m3u8", 
-        "https://raw.githubusercontent.com/kgasaz/4kuhd/master/sports-channels-4k.m3u", 
+        "https://raw.githubusercontent.com/iptv2025tx/one-stop-2026/refs/heads/main/Iptv2025tx/OTT/diablo.m3u8",
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
