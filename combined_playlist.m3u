@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-07T02:01:26.492775 UTC
+# Generated on 2026-03-07T05:00:28.836265 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -27955,6 +27955,12 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/326570.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328054.ts
 #EXTINF:-1, WBC 2026. Opc. 2 | Eng.
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328055.ts
+#EXTINF:-1, WBC 2026. Opc. 3 | Eng.
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328056.ts
+#EXTINF:-1, WBC 2026. Opc. 4 | Esp.
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328057.ts
+#EXTINF:-1, WBC 2026. Opc. 5 | Esp.
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328058.ts
 #EXTINF:-1, CHL: CANAL 13
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/3311.ts
 #EXTINF:-1, MX || RAKUTEN VIKI Channel FHD/HD®
