@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-08T02:11:14.736717 UTC
+# Generated on 2026-03-08T05:09:57.776968 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -7565,9 +7565,9 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49677
 #GROUP:Ungrouped
 #EXTINF:-1,HON-TVC Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
-#EXTINF:-1,PPV 1 - (e)(1080)
+#EXTINF:-1,PPV 1 - UFC (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178774
-#EXTINF:-1,PPV 2 - WWE (e)(720)
+#EXTINF:-1,PPV 2 - UFC (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
 #EXTINF:-1,PPV 3 - (E)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
@@ -12111,7 +12111,7 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185612
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185613
 #EXTINF:-1,UFC | 15:30 UFC 326 Prelims Español
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185614
-#EXTINF:-1,UFC | 15:30 UFC 326 Prelims English
+#EXTINF:-1,UFC | 15:30 UFC 326 HD
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185615
 #EXTINF:-1,UFC | 20:00 UFC 326 Main Event Español
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185616
