@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-11T16:54:05.770807 UTC
+# Generated on 2026-03-11T20:35:09.522820 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -7565,13 +7565,13 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49677
 #GROUP:Ungrouped
 #EXTINF:-1,HON-TVC Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
-#EXTINF:-1,PPV 1 - Botafogo Vs. Barcelona (e)(1080)
+#EXTINF:-1,PPV 1 -  (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178774
 #EXTINF:-1,PPV 2 - (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
-#EXTINF:-1,PPV 3 - Botafogo Vs. Barcelona (e)(1080)
+#EXTINF:-1,PPV 3 - (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
-#EXTINF:-1,PPV 4 - Botafogo Vs. Barcelona (e)(1080)
+#EXTINF:-1,PPV 4 -  (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178777
 #EXTINF:-1,PPV 1 - encoder New (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185769
@@ -9949,11 +9949,11 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160877
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160878
 #EXTINF:-1,COL-Zoom (W)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/160879
-#EXTINF:-1,PPV 1 Ecuador - Botafogo Vs. Barcelona (e)(1080)
+#EXTINF:-1,PPV 1  (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/174447
-#EXTINF:-1,PPV 2 Ecuador - Botafogo Vs. Barcelona (e)(720)
+#EXTINF:-1,PPV 2  (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/174448
-#EXTINF:-1,PPV 3 - Ecuador - Botafogo Vs. Barcelona (e)(SD)
+#EXTINF:-1,PPV 3 -  (e)(SD)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180288
 #EXTINF:-1,PPV 4 - Ecuador (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180289
