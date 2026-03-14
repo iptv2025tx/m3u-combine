@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-14T12:54:18.528191 UTC
+# Generated on 2026-03-14T16:33:39.701934 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -7565,8 +7565,6 @@ http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49677
 #GROUP:Ungrouped
 #EXTINF:-1,HON-TVC Deportes (Z)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
-#EXTINF:-1,PPV 1 -  (e)(1080)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178774
 #EXTINF:-1,PPV 2 - (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
 #EXTINF:-1,PPV 3 - (e)(1080)
@@ -12104,233 +12102,1077 @@ http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180291.mkv
 #EXTINF:-1,Gente que conocemos en vacaciones (2026)
 http://tv.diablotv.net:8080/movie/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/180292.mkv
 #EXTINF:-1,US | Sunday NFL Red Zone
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187035
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187329
 #EXTINF:-1,US | Sunday NFL Red Zone
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187036
-#EXTINF:-1,Liga MX | 19:00 Puebla vs Necaxa
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187037
-#EXTINF:-1,Liga MX | 21:00 FC Juárez vs Monterrey
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187038
-#EXTINF:-1,Expansión MX | 17:00 Alebrijes de Oaxaca vs. Tapatío CD
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187039
-#EXTINF:-1,Expansión MX | 19:00 Mineros de Zacatecas vs CDS Tampico Madero
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187040
-#EXTINF:-1,Expansión MX | 19:00 Correcaminos FC vs. Club Deportivo Irapuato
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187041
-#EXTINF:-1,Liga MX Fem | 20:00 América (F) vs. León (F)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187042
-#EXTINF:-1,Champions Africa | 12:00 Mamelodi Sundowns vs Stade Malien Bamako
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187043
-#EXTINF:-1,Champions Africa | 16:00 FAR Rabat vs Pyramids FC
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187044
-#EXTINF:-1,LALIGA | 14:00 Alaves vs.Villarreal CF
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187045
-#EXTINF:-1,Serie A | 13:45 Torino vs. Parma
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187046
-#EXTINF:-1,Bundesliga | 13:30 Borussia Monchengladbach vs.FC St.Pauli
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187047
-#EXTINF:-1,Ligue 1 | 13:45 Marseille vs Auxerre
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187048
-#EXTINF:-1,Colombia | 17:20 Once Caldas vs Deportivo Pasto
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187049
-#EXTINF:-1,Colombia | 19:30 Atlético Nacional vs Llaneros
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187050
-#EXTINF:-1,Championship | 14:00 Wrexham AFC vs. Swansea City
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187051
-#EXTINF:-1,SAUDI PRO LEAGUE | 13:00 Al Qadsiah vs Al Ahli
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187052
-#EXTINF:-1,LaLiga SmartBank | 13:30 Mirandés vs Cádiz
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187053
-#EXTINF:-1,Turquía | 11:00 Fatih Karagumruk vs. Fenerbahce
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187054
-#EXTINF:-1,USL Super League | 17:00 Carolina Ascent vs. Tampa Bay Sun
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187055
-#EXTINF:-1,Uruguay | 17:00 Nacional vs. Montevideo Wanderers
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187056
-#EXTINF:-1,Albania | 12:00 Egnatia Rrogozhinë vs Vllaznia Shkodër
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187057
-#EXTINF:-1,Arg | 17:00 Estudiantes vs Lanús
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187058
-#EXTINF:-1,Australia | 20:00 Wellington Phoenix vs.Perth Glory
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187059
-#EXTINF:-1,Australia | 22:00 Central Coast Mariners FC vs.Adelaide United
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187060
-#EXTINF:-1,Australia Women | 23:00 Wellington Phoenix vs.Brisbane Roar FC
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187061
-#EXTINF:-1,Chile |  17:00 Audax Italiano vs Deportes Concepción
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187062
-#EXTINF:-1,Costa Rica | 20:00 Alajuelense vs Pérez Zeledón
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187063
-#EXTINF:-1,Ecuador | 15:30 Técnico Universitario vs Libertad
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187064
-#EXTINF:-1,Ecuador | 18:00 Deportivo Cuenca vs Leones del Norte
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187065
-#EXTINF:-1,2.Bundesliga | 11:30 Magdeburg vs.SV Darmstadt 98
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187066
-#EXTINF:-1,2.Bundesliga | 11:30 Greuther Fuerth vs.SV Elversberg
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187067
-#EXTINF:-1,3.Bundesliga | 12:00 Energie Cottbus vs.Alemannia Aachen
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187068
-#EXTINF:-1,Perú | 14:00 FC Cajamarca vs Comerciantes Unidos
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187069
-#EXTINF:-1,NWSL | 18:00 Spirit vs. Thorns
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187070
-#EXTINF:-1,FA Youth Cup | 13:00 Manchester City vs.Everton
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187071
-#EXTINF:-1,Bundesliga Fem | 11:30 Freiburg vs. Nurnberg
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187072
-#EXTINF:-1,Lacrosse | NLL 16:30 Toronto Rock vs.Halifax Thunderbirds
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187238
-#EXTINF:-1,Lacrosse | NLL 17:00 Philadelphia Wings vs.Oshawa FireWolves
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187239
-#EXTINF:-1,Lacrosse | NLL 17:30 Colorado Mammoth vs.Buffalo Bandits
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187240
-#EXTINF:-1,MLB 01 | 11:05 Baltimore Orioles vs Philadelphia Phillies
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187241
-#EXTINF:-1,MLB 02 | 11:05 New York Yankees vs Atlanta Braves
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187242
-#EXTINF:-1,MLB 03 | 11:07 Minnesota Twins vs Toronto Blue Jays
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187243
-#EXTINF:-1,MLB 04 | 14:05 San Diego Padres vs Athletics
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187244
-#EXTINF:-1,MLB 05 | 14:05 Chicago Cubs vs Chicago White Sox
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187245
-#EXTINF:-1,MLB 06 | 14:10 Texas Rangers vs Colorado Rockies
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187246
-#EXTINF:-1,MLB 07 | 16:05 Houston Astros vs St. Louis Cardinals
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187247
-#EXTINF:-1,MLB 08 | 16:10 Miami Marlins vs New York Mets
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187248
-#EXTINF:-1,MLB 09 | 19:05 Arizona Diamondbacks vs Kansas City Royals
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187249
-#EXTINF:-1,MLB 10 | 19:10 Los Angeles Dodgers vs Seattle Mariners
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187250
-#EXTINF:-1,Beisbol | Clasico Mundial 16:30 Korea at Dominican Republic
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187251
-#EXTINF:-1,Beisbol | Clasico Mundial 18:00 United States at Canada
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187252
-#EXTINF:-1,NBA 01 | 17:30 Cavaliers vs. Mavericks Español
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187253
-#EXTINF:-1,NBA 02 | 17:30 Cavaliers vs. Mavericks English
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187254
-#EXTINF:-1,NBA 03 | 17:30 Pistons vs Grizzlies
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187255
-#EXTINF:-1,NBA 04 | 17:30 Pacers vs Knicks
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187256
-#EXTINF:-1,NBA 05 | 17:30 Raptors vs Suns
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187257
-#EXTINF:-1,NBA 06 | 18:00 Rockets vs Pelicans
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187258
-#EXTINF:-1,NBA 07 | 20:00 Timberwolves vs. Warriors Español
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187259
-#EXTINF:-1,NBA 08 | 20:00 Timberwolves vs. Warriors English
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187260
-#EXTINF:-1,NBA 09 | 20:00 Trail Blazers vs Jazz
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187261
-#EXTINF:-1,NBA 10| 20:30 Clippers vs Bulls
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187262
-#EXTINF:-1,Basket | Clasif Mundial Fem 23:30 Brazil vs. Czechia
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187263
-#EXTINF:-1,Basket | SLB 13:30 Leicester Riders vs. Cheshire Phoenix
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187264
-#EXTINF:-1,Basket | SLB 13:30 Newcastle Eagles vs. Caledonia Gladiators
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187265
-#EXTINF:-1,Basket | SLB 13:30 Bristol Flyers vs. Manchester Basketball
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187266
-#EXTINF:-1,NHL 01 | 17:00 Los Angeles Kings vs.New York Islanders
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187267
-#EXTINF:-1,NHL 02 | 18:00 Edmonton Oilers vs.St.Louis Blues
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187268
-#EXTINF:-1,ATP | 12:00 BNP Paribas Open / Stadium 1 (Doubles Semifinals)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187269
-#EXTINF:-1,WTA | 17:00 WTA BNP Paribas Open (Semifinal)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187270
-#EXTINF:-1,Golf | 05:30 PGA TOUR THE PLAYERS Championship Main Feed + McIlroy Group
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187271
-#EXTINF:-1,Golf | 05:38 PGA TOUR THE PLAYERS Championship All Access Group 21
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187272
-#EXTINF:-1,Golf | 05:38 PGA TOUR THE PLAYERS Championship All Access Group 32
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187273
-#EXTINF:-1,Golf | 05:50 PGA TOUR THE PLAYERS Championship All Access Group 26
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187274
-#EXTINF:-1,Golf | 05:50 PGA TOUR THE PLAYERS Championship All Access Group 33
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187275
-#EXTINF:-1,Golf |06:00 PGA TOUR PGA TOUR LIVE BetCast  (Second Round)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187276
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187330
+#EXTINF:-1,Liga MX | 17:00 Atlético de San Luis vs. Pachuca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187331
+#EXTINF:-1,Liga MX | 17:00 Atlético de San Luis vs. Pachuca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187332
+#EXTINF:-1,Liga MX | 17:07 Chivas vs. Santos Laguna
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187333
+#EXTINF:-1,Liga MX | 17:07 Chivas vs. Santos Laguna
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187334
+#EXTINF:-1,Liga MX | 19:00 León vs Tijuana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187335
+#EXTINF:-1,Liga MX | 19:00 León vs Tijuana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187336
+#EXTINF:-1,Liga MX | 19:00 Toluca vs. Atlas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187337
+#EXTINF:-1,Liga MX | 19:00 Toluca vs. Atlas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187338
+#EXTINF:-1,Liga MX | 21:10 Pumas UNAM vs. Cruz Azul
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187339
+#EXTINF:-1,Liga MX | 21:10 Pumas UNAM vs. Cruz Azul
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187340
+#EXTINF:-1,Expansión MX | 19:00 Atlético Morelia vs Tepatitlán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187341
+#EXTINF:-1,Expansión MX | 19:00 Atlético Morelia vs Tepatitlán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187342
+#EXTINF:-1,Expansión MX | 19:00 Cancún vs CA La Paz
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187343
+#EXTINF:-1,Expansión MX | 19:00 Cancún vs CA La Paz
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187344
+#EXTINF:-1,Expansión MX | 21:00 Dorados vs Leones Negros UdeG
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187345
+#EXTINF:-1,Expansión MX | 21:00 Dorados vs Leones Negros UdeG
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187346
+#EXTINF:-1,Champions Africa | 16:00 RSB Berkane vs Al Hilal Omdurman
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187347
+#EXTINF:-1,Champions Africa | 16:00 RSB Berkane vs Al Hilal Omdurman
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187348
+#EXTINF:-1,Premier League | 09:00 Sunderland vs. Brighton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187349
+#EXTINF:-1,Premier League | 09:00 Sunderland vs. Brighton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187350
+#EXTINF:-1,Premier League | 09:00 Burnley vs. Bournemouth
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187351
+#EXTINF:-1,Premier League | 09:00 Burnley vs. Bournemouth
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187352
+#EXTINF:-1,Premier League | 11:30 Chelsea vs. Newcastle
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187353
+#EXTINF:-1,Premier League | 11:30 Chelsea vs. Newcastle
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187354
+#EXTINF:-1,Premier League | 11:30 Arsenal vs Everton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187355
+#EXTINF:-1,Premier League | 11:30 Arsenal vs Everton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187356
+#EXTINF:-1,Premier League | West Ham vs Manchester City
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187357
+#EXTINF:-1,Premier League | West Ham vs Manchester City
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187358
+#EXTINF:-1,LALIGA | 07:00 Girona FC vs.Athletic Club
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187359
+#EXTINF:-1,LALIGA | 07:00 Girona FC vs.Athletic Club
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187360
+#EXTINF:-1,LALIGA | 09:15 Atletico de Madrid vs.Getafe CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187361
+#EXTINF:-1,LALIGA | 09:15 Atletico de Madrid vs.Getafe CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187362
+#EXTINF:-1,LALIGA | 11:30 Real Oviedo vs.Valencia CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187363
+#EXTINF:-1,LALIGA | 11:30 Real Oviedo vs.Valencia CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187364
+#EXTINF:-1,LALIGA | 14:00 Real Madrid vs.Elche CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187365
+#EXTINF:-1,LALIGA | 14:00 Real Madrid vs.Elche CF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187366
+#EXTINF:-1,Serie A | 08:00 Inter vs. Atalanta
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187367
+#EXTINF:-1,Serie A | 08:00 Inter vs. Atalanta
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187368
+#EXTINF:-1,Serie A | 11:00 Napoli vs. Lecce
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187369
+#EXTINF:-1,Serie A | 11:00 Napoli vs. Lecce
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187370
+#EXTINF:-1,Serie A | 13:45 Udinese vs. Juventus
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187371
+#EXTINF:-1,Serie A | 13:45 Udinese vs. Juventus
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187372
+#EXTINF:-1,Bundesliga | 08:30 Bayer 04 Leverkusen vs.FC Bayern Munchen
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187373
+#EXTINF:-1,Bundesliga | 08:30 Bayer 04 Leverkusen vs.FC Bayern Munchen
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187374
+#EXTINF:-1,Bundesliga | 08:30 Borussia Dortmund vs.FC Augsburg
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187375
+#EXTINF:-1,Bundesliga | 08:30 Borussia Dortmund vs.FC Augsburg
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187376
+#EXTINF:-1,Bundesliga | 08:30 Eintracht Frankfurt vs.1.FC Heidenheim 1846
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187377
+#EXTINF:-1,Bundesliga | 08:30 Eintracht Frankfurt vs.1.FC Heidenheim 1846
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187378
+#EXTINF:-1,Bundesliga | 08:30 TSG Hoffenheim vs.VfL Wolfsburg
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187379
+#EXTINF:-1,Bundesliga | 08:30 TSG Hoffenheim vs.VfL Wolfsburg
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187380
+#EXTINF:-1,Bundesliga | 11:30 Hamburger SV vs.1.FC Koln
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187381
+#EXTINF:-1,Bundesliga | 11:30 Hamburger SV vs.1.FC Koln
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187382
+#EXTINF:-1,Ligue 1 | 10:00 Lorient vs Lens
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187383
+#EXTINF:-1,Ligue 1 | 10:00 Lorient vs Lens
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187384
+#EXTINF:-1,Ligue 1 | 12:00 Angers vs Nice
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187385
+#EXTINF:-1,Ligue 1 | 12:00 Angers vs Nice
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187386
+#EXTINF:-1,Ligue 1 | 14:05 Monaco vs Brest
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187387
+#EXTINF:-1,Ligue 1 | 14:05 Monaco vs Brest
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187388
+#EXTINF:-1,Portugal | 9:30 Vitória Guimarães vs Famalicão
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187389
+#EXTINF:-1,Portugal | 9:30 Vitória Guimarães vs Famalicão
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187390
+#EXTINF:-1,Portugal | 12:00 Gil Vicente vs Alverca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187391
+#EXTINF:-1,Portugal | 12:00 Gil Vicente vs Alverca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187392
+#EXTINF:-1,Portugal | 14:30 Arouca vs Benfica
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187393
+#EXTINF:-1,Portugal | 14:30 Arouca vs Benfica
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187394
+#EXTINF:-1,Arg | 16:00 Platense vs Vélez Sarsfield
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187395
+#EXTINF:-1,Arg | 16:00 Platense vs Vélez Sarsfield
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187396
+#EXTINF:-1,Arg | 18:00 Rosario Central vs Banfield
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187397
+#EXTINF:-1,Arg | 18:00 Rosario Central vs Banfield
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187398
+#EXTINF:-1,Colombia | 13:00 Inter Bogotá vs Atlético Bucaramanga
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187399
+#EXTINF:-1,Colombia | 13:00 Inter Bogotá vs Atlético Bucaramanga
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187400
+#EXTINF:-1,Colombia | 15:10 Cúcuta Deportivo vs Deportivo Cali
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187401
+#EXTINF:-1,Colombia | 15:10 Cúcuta Deportivo vs Deportivo Cali
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187402
+#EXTINF:-1,Colombia | 17:20 Boyacá Chicó vs Millonarios
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187403
+#EXTINF:-1,Colombia | 17:20 Boyacá Chicó vs Millonarios
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187404
+#EXTINF:-1,Colombia | 19:30 Santa Fe vs Alianza
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187405
+#EXTINF:-1,Colombia | 19:30 Santa Fe vs Alianza
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187406
+#EXTINF:-1,Championship | 06:30 Coventry City vs. Southampton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187407
+#EXTINF:-1,Championship | 06:30 Coventry City vs. Southampton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187408
+#EXTINF:-1,Championship | 06:30 Middlesbrough vs. Bristol City
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187409
+#EXTINF:-1,Championship | 06:30 Middlesbrough vs. Bristol City
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187410
+#EXTINF:-1,Championship | 09:00 Leicester City vs. Queens Park Rangers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187411
+#EXTINF:-1,Championship | 09:00 Leicester City vs. Queens Park Rangers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187412
+#EXTINF:-1,Championship | 09:00 Stoke City vs. Watford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187413
+#EXTINF:-1,Championship | 09:00 Stoke City vs. Watford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187414
+#EXTINF:-1,Guatemala | 17:00 Guastatoya vs Mictlán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187415
+#EXTINF:-1,Guatemala | 17:00 Guastatoya vs Mictlán
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187416
+#EXTINF:-1,Guatemala | 19:00 Malacateco vs Mixco
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187417
+#EXTINF:-1,Guatemala | 19:00 Malacateco vs Mixco
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187418
+#EXTINF:-1,Eredivisie | 11:45 PSV vs. N.E.C.
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187419
+#EXTINF:-1,Eredivisie | 11:45 PSV vs. N.E.C.
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187420
+#EXTINF:-1,Eredivisie | 14:00 Ajax vs. Sparta Rotterdam
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187421
+#EXTINF:-1,Eredivisie | 14:00 Ajax vs. Sparta Rotterdam
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187422
+#EXTINF:-1,SAUDI PRO LEAGUE | 13:00 Al Khaleej vs Al Nassr
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187423
+#EXTINF:-1,SAUDI PRO LEAGUE | 13:00 Al Khaleej vs Al Nassr
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187424
+#EXTINF:-1,LaLiga SmartBank | 9:15 Cultural Leonesa vs Racing Santander
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187425
+#EXTINF:-1,LaLiga SmartBank | 9:15 Cultural Leonesa vs Racing Santander
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187426
+#EXTINF:-1,LaLiga SmartBank | 11:30 Real Zaragoza vs Almería
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187427
+#EXTINF:-1,LaLiga SmartBank | 11:30 Real Zaragoza vs Almería
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187428
+#EXTINF:-1,LaLiga SmartBank | 14:00 Ceuta vs.Deportivo La Coruna
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187429
+#EXTINF:-1,LaLiga SmartBank | 14:00 Ceuta vs.Deportivo La Coruna
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187430
+#EXTINF:-1,Turquía | 11:00 Galatasaray vs. Istanbul Basaksehir
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187431
+#EXTINF:-1,Turquía | 11:00 Galatasaray vs. Istanbul Basaksehir
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187432
+#EXTINF:-1,Turquía | 11:00 Trabzonspor vs. Rizespor
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187433
+#EXTINF:-1,Turquía | 11:00 Trabzonspor vs. Rizespor
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187434
+#EXTINF:-1,MLS | 11:00 Toronto vs. New York
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187435
+#EXTINF:-1,MLS | 13:15 Atlanta vs. Philadelphia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187436
+#EXTINF:-1,MLS | 16:15 Columbus vs. Nashville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187437
+#EXTINF:-1,MLS | 17:30 Charlotte vs. Miami (Spanish)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187438
+#EXTINF:-1,MLS | 17:30 Charlotte vs. Miami (English)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187439
+#EXTINF:-1,MLS | 17:30 New York City vs. Colorado
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187440
+#EXTINF:-1,MLS | 17:30 Orlando vs. Montréal
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187441
+#EXTINF:-1,MLS | 18:30 Chicago vs. D.C.
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187442
+#EXTINF:-1,MLS | 18:30 Dallas vs. San Diego
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187443
+#EXTINF:-1,MLS | 18:30 Houston vs. Portland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187444
+#EXTINF:-1,MLS | 19:30 LA vs. Kansas City
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187445
+#EXTINF:-1,MLS | 19:30 Salt Lake vs. Austin
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187446
+#EXTINF:-1,MLS | 20:30 LAFC vs. St. Louis
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187447
+#EXTINF:-1,USL League One | 12:00 New York Cosmos vs. Portland Hearts of Pine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187448
+#EXTINF:-1,USL League One | 12:00 New York Cosmos vs. Portland Hearts of Pine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187449
+#EXTINF:-1,USL Championship | 13:00 Loudoun United FC vs. Pittsburgh Riverhounds SC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187450
+#EXTINF:-1,USL Championship | 13:00 Loudoun United FC vs. Pittsburgh Riverhounds SC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187451
+#EXTINF:-1,USL Championship | 14:00 Louisville City FC vs. Miami FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187452
+#EXTINF:-1,USL Championship | 14:00 Louisville City FC vs. Miami FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187453
+#EXTINF:-1,USL Championship | 14:00 Detroit City FC vs. Brooklyn FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187454
+#EXTINF:-1,USL Championship | 14:00 Detroit City FC vs. Brooklyn FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187455
+#EXTINF:-1,USL Championship | 14:00 Rhode Island FC vs. Sporting Club Jacksonville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187456
+#EXTINF:-1,USL Championship | 14:00 Rhode Island FC vs. Sporting Club Jacksonville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187457
+#EXTINF:-1,NWSL | 10:30 Boston Legacy vs. Gotham FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187458
+#EXTINF:-1,NWSL | 10:30 Boston Legacy vs. Gotham FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187459
+#EXTINF:-1,Uruguay | 07:00 Cerro vs. Progreso
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187460
+#EXTINF:-1,Uruguay | 07:00 Cerro vs. Progreso
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187461
+#EXTINF:-1,Uruguay | 14:00 Boston River vs. Racing
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187462
+#EXTINF:-1,Uruguay | 14:00 Boston River vs. Racing
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187463
+#EXTINF:-1,Uruguay | 17:30 Albion vs Peñarol
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187464
+#EXTINF:-1,Uruguay | 17:30 Albion vs Peñarol
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187465
+#EXTINF:-1,Albania | 08:00 Tirana vs Bylis Ballsh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187466
+#EXTINF:-1,Albania | 08:00 Tirana vs Bylis Ballsh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187467
+#EXTINF:-1,Albania | 11:00 Flamurtari Vlorë vs AF Elbasani
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187468
+#EXTINF:-1,Albania | 11:00 Flamurtari Vlorë vs AF Elbasani
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187469
+#EXTINF:-1,Australia Women | 21:00 Melbourne City FC vs.Canberra United
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187470
+#EXTINF:-1,Australia Women | 21:00 Melbourne City FC vs.Canberra United
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187471
+#EXTINF:-1,Brasileirao | 15:30 Vitória vs Atlético Mineiro
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187472
+#EXTINF:-1,Brasileirao | 15:30 Vitória vs Atlético Mineiro
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187473
+#EXTINF:-1,Brasileirao | 17:30 Botafogo vs Flamengo
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187474
+#EXTINF:-1,Brasileirao | 17:30 Botafogo vs Flamengo
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187475
+#EXTINF:-1,Chile | 15:00 Coquimbo Unido vs Universidad Chile
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187476
+#EXTINF:-1,Chile | 15:00 Coquimbo Unido vs Universidad Chile
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187477
+#EXTINF:-1,Chile | 17:30 Universidad Católica vs Everton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187478
+#EXTINF:-1,Chile | 17:30 Universidad Católica vs Everton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187479
+#EXTINF:-1,Costa Rica | 18:00 Sporting San José vs San Carlos
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187480
+#EXTINF:-1,Costa Rica | 18:00 Sporting San José vs San Carlos
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187481
+#EXTINF:-1,Costa Rica | 20:00 Herediano vs Municipal Liberia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187482
+#EXTINF:-1,Costa Rica | 20:00 Herediano vs Municipal Liberia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187483
+#EXTINF:-1,Ecuador | 13:00 Independiente del Valle vs Aucas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187484
+#EXTINF:-1,Ecuador | 13:00 Independiente del Valle vs Aucas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187485
+#EXTINF:-1,Ecuador | 15:30 Delfin vs Manta
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187486
+#EXTINF:-1,Ecuador | 15:30 Delfin vs Manta
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187487
+#EXTINF:-1,Ecuador | 18:00 LDU Quito vs Universidad Católica
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187488
+#EXTINF:-1,Ecuador | 18:00 LDU Quito vs Universidad Católica
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187489
+#EXTINF:-1,2.Bundesliga | 06:00 Arminia Bielefeld vs.SC Paderborn 07
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187490
+#EXTINF:-1,2.Bundesliga | 06:00 Arminia Bielefeld vs.SC Paderborn 07
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187491
+#EXTINF:-1,2.Bundesliga | 06:00 Eintracht Braunschweig vs.Fortuna Dusseldorf
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187492
+#EXTINF:-1,2.Bundesliga | 06:00 Eintracht Braunschweig vs.Fortuna Dusseldorf
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187493
+#EXTINF:-1,2.Bundesliga | 06:00 Holstein Kiel vs.1.FC Nurnberg
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187494
+#EXTINF:-1,2.Bundesliga | 06:00 Holstein Kiel vs.1.FC Nurnberg
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187495
+#EXTINF:-1,2.Bundesliga | 13:30 Hertha BSC vs.Vfl Bochum 1848
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187496
+#EXTINF:-1,2.Bundesliga | 13:30 Hertha BSC vs.Vfl Bochum 1848
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187497
+#EXTINF:-1,Honduras | 15:00 Marathón vs UPNFM
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187498
+#EXTINF:-1,Honduras | 15:00 Marathón vs UPNFM
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187499
+#EXTINF:-1,Honduras | 17:15 Olancho vs Real España
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187500
+#EXTINF:-1,Honduras | 17:15 Olancho vs Real España
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187501
+#EXTINF:-1,Honduras | 19:30 Choloma vs Juticalpa
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187502
+#EXTINF:-1,Honduras | 19:30 Choloma vs Juticalpa
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187503
+#EXTINF:-1,OFC Pro League | 22:00 Vanuatu United FC vs South Melbourne FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187504
+#EXTINF:-1,OFC Pro League | 22:00 Vanuatu United FC vs South Melbourne FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187505
+#EXTINF:-1,Perú | 12:00 Sport Huancayo vs ADT
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187506
+#EXTINF:-1,Perú | 12:00 Sport Huancayo vs ADT
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187507
+#EXTINF:-1,Perú | 14:15 Juan Pablo II College vs Los Chankas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187508
+#EXTINF:-1,Perú | 14:15 Juan Pablo II College vs Los Chankas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187509
+#EXTINF:-1,Perú | 17:00 Deportivo Garcilaso vs Alianza Lima
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187510
+#EXTINF:-1,Perú | 17:00 Deportivo Garcilaso vs Alianza Lima
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187511
+#EXTINF:-1,Perú | 19:30 Universitario vs UTC Cajamarca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187512
+#EXTINF:-1,Perú | 19:30 Universitario vs UTC Cajamarca
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187513
+#EXTINF:-1,TT Premier League | 16:00 Point Fortin Civic FC vs San Juan Jabloteh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187514
+#EXTINF:-1,TT Premier League | 16:00 Point Fortin Civic FC vs San Juan Jabloteh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187515
+#EXTINF:-1,TT Premier League | 18:00 Sando FC vs Prison Service FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187516
+#EXTINF:-1,TT Premier League | 18:00 Sando FC vs Prison Service FC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187517
+#EXTINF:-1,Liga F | 11:30 Real Sociedad vs. Real Madrid
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187518
+#EXTINF:-1,Liga F | 11:30 Real Sociedad vs. Real Madrid
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187519
+#EXTINF:-1,Serie A Fem | 08:00 Napoli vs. Lazio
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187520
+#EXTINF:-1,Serie A Fem | 08:00 Napoli vs. Lazio
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187521
+#EXTINF:-1,Bundesliga Fem | 07:00 Werder Bremen vs. Frankfurt
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187522
+#EXTINF:-1,10:00 NCAA Baseball Columbia vs.South Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187523
+#EXTINF:-1,10:00 NCAA Baseball Navy vs.Lehigh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187524
+#EXTINF:-1,11:00 NCAA Baseball Cornell vs.VMI
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187525
+#EXTINF:-1,11:00 NCAA Baseball UAlbany vs.Yale
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187526
+#EXTINF:-1,11:00 NCAA Baseball Siena vs.Rider
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187527
+#EXTINF:-1,11:00 NCAA Baseball St.Bonaventure vs.George Mason
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187528
+#EXTINF:-1,11:00 NCAA Baseball La Salle vs.VCU
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187529
+#EXTINF:-1,11:00 NCAA Baseball Lafayette vs.Bucknell
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187530
+#EXTINF:-1,11:00 NCAA Baseball Brown vs.Seton Hall
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187531
+#EXTINF:-1,11:30 NCAA Baseball Fordham vs.Davidson
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187532
+#EXTINF:-1,12:00 NCAA Baseball Valparaiso vs.SIU Edwardsville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187533
+#EXTINF:-1,12:00 NCAA Baseball UMass Lowell vs.Pepperdine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187534
+#EXTINF:-1,12:00 NCAA Baseball Western Michigan vs.Ohio
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187535
+#EXTINF:-1,12:00 NCAA Baseball Evansville vs.Xavier
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187536
+#EXTINF:-1,12:00 NCAA Baseball Radford vs.Winthrop
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187537
+#EXTINF:-1,12:00 NCAA Baseball Holy Cross vs.Army
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187538
+#EXTINF:-1,12:00 NCAA Baseball Southeast Missouri State vs.Wright State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187539
+#EXTINF:-1,12:00 NCAA Baseball Villanova vs.Charleston Southern
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187540
+#EXTINF:-1,12:00 NCAA Baseball Bryant vs.Binghamton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187541
+#EXTINF:-1,12:00 NCAA Baseball High Point vs.South Carolina Upstate
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187542
+#EXTINF:-1,12:00 NCAA Baseball Murray State vs.Lindenwood
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187543
+#EXTINF:-1,12:00 NCAA Baseball Morehead State vs.Western Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187544
+#EXTINF:-1,12:00 NCAA Baseball Missouri State vs.Liberty
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187545
+#EXTINF:-1,12:05 NCAA Baseball Butler vs.Wichita State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187546
+#EXTINF:-1,13:00 NCAA Baseball Cincinnati vs.BYU
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187547
+#EXTINF:-1,13:00 NCAA Baseball South Alabama vs.Louisiana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187548
+#EXTINF:-1,13:00 NCAA Baseball Central Washington vs.Seattle U
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187549
+#EXTINF:-1,13:00 NCAA Baseball UT Arlington vs.#24 UTSA
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187550
+#EXTINF:-1,13:00 NCAA Baseball West Virginia vs.Baylor
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187551
+#EXTINF:-1,13:00 NCAA Baseball Little Rock vs.Samford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187552
+#EXTINF:-1,13:00 NCAA Baseball North Alabama vs.Lipscomb
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187553
+#EXTINF:-1,13:00 NCAA Baseball Creighton vs.Tulane
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187554
+#EXTINF:-1,13:00 NCAA Baseball Delaware vs.Louisiana Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187555
+#EXTINF:-1,13:00 NCAA Baseball Texas A&M-Corpus Christi vs.Northwestern State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187556
+#EXTINF:-1,13:00 NCAA Baseball Incarnate Word vs.New Orleans
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187557
+#EXTINF:-1,13:00 NCAA Baseball Belmont vs.UAB
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187558
+#EXTINF:-1,13:00 NCAA Baseball Stephen F.Austin vs.SE Louisiana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187559
+#EXTINF:-1,13:00 NCAA Baseball #16 Coastal Carolina vs.App State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187560
+#EXTINF:-1,13:00 NCAA Baseball Kansas vs.Texas Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187561
+#EXTINF:-1,13:00 NCAA Baseball UNC Greensboro vs.UIC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187562
+#EXTINF:-1,13:00 NCAA Baseball Mercer vs.Tennessee Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187563
+#EXTINF:-1,13:00 NCAA Baseball Eastern Illinois vs.Memphis
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187564
+#EXTINF:-1,13:00 NCAA Baseball Longwood vs.Gardner-Webb
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187565
+#EXTINF:-1,14:00 NCAA Baseball UConn vs.Portland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187566
+#EXTINF:-1,14:00 NCAA Baseball Houston Christian vs.Tarleton State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187567
+#EXTINF:-1,14:00 NCAA Baseball St.Johns vs.Charlotte
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187568
+#EXTINF:-1,14:00 NCAA Baseball Georgia Southern vs.James Madison
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187569
+#EXTINF:-1,14:00 NCAA Baseball Georgia State vs.Marshall
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187570
+#EXTINF:-1,14:00 NCAA Baseball Kennesaw State vs.Middle Tennessee
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187571
+#EXTINF:-1,14:00 NCAA Baseball Pennsylvania vs.East Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187572
+#EXTINF:-1,14:00 NCAA Baseball Utah Tech vs.Santa Clara
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187573
+#EXTINF:-1,14:00 NCAA Baseball New Mexico State vs.Dallas Baptist
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187574
+#EXTINF:-1,14:00 NCAA Baseball Cornell vs.VMI
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187575
+#EXTINF:-1,14:00 NCAA Baseball Arizona vs.Utah
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187576
+#EXTINF:-1,14:00 NCAA Baseball Columbia vs.South Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187577
+#EXTINF:-1,14:30 NCAA Baseball Old Dominion vs.Troy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187578
+#EXTINF:-1,15:00 NCAA Baseball Queens University vs.Florida Gulf Coast
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187579
+#EXTINF:-1,15:00 NCAA Baseball UMass Lowell vs.Pepperdine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187580
+#EXTINF:-1,15:00 NCAA Baseball Florida International vs.Western Kentucky
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187581
+#EXTINF:-1,15:35 NCAA Baseball Butler vs.Wichita State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187582
+#EXTINF:-1,16:00 NCAA Baseball Sacramento State vs.Pacific
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187583
+#EXTINF:-1,16:00 NCAA Baseball Cal State Bakersfield vs.Cal Poly
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187584
+#EXTINF:-1,16:00 NCAA Baseball McNeese vs.Lamar
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187585
+#EXTINF:-1,16:00 NCAA Baseball Oklahoma State vs.UCF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187586
+#EXTINF:-1,16:30 NCAA Baseball North Florida vs.Stetson
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187587
+#EXTINF:-1,17:00 NCAA Baseball Central Washington vs.Seattle U
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187588
+#EXTINF:-1,17:00 NCAA Baseball UC San Diego vs.Cal State Northridge
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187589
+#EXTINF:-1,17:00 NCAA Baseball Texas State vs.UL Monroe
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187590
+#EXTINF:-1,17:00 NCAA Baseball UT Rio Grande Valley vs.Nicholls
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187591
+#EXTINF:-1,17:00 NCAA Baseball #7 Southern Miss vs.Arkansas State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187592
+#EXTINF:-1,17:30 NCAA Baseball Kansas State vs.Houston
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187593
+#EXTINF:-1,17:45 NCAA Baseball UConn vs.Portland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187594
+#EXTINF:-1,18:00 NCAA Baseball UC Irvine vs.Cal State Fullerton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187595
+#EXTINF:-1,18:00 NCAA Baseball #18 Oregon State vs.San Diego
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187596
+#EXTINF:-1,19:00 NCAA Baseball UC Santa Barbara vs.UC Davis
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187597
+#EXTINF:-1,19:00 NCAA Baseball Hawaii vs.Long Beach State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187598
+#EXTINF:-1,19:00 NCAA Baseball Harvard vs.California Baptist
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187599
+#EXTINF:-1,19:30 NCAA Baseball #17 TCU vs.Arizona State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187600
+#EXTINF:-1,08:00 NCAA Softball ETSU vs.Radford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187601
+#EXTINF:-1,08:30 NCAA Softball Army vs.St.Johns
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187602
+#EXTINF:-1,10:00 NCAA Softball Dayton vs.Fordham
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187603
+#EXTINF:-1,10:00 NCAA Softball Saint Peters vs.Pennsylvania
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187604
+#EXTINF:-1,10:00 NCAA Softball UConn vs.Seton Hall
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187605
+#EXTINF:-1,10:00 NCAA Softball Longwood vs.Wofford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187606
+#EXTINF:-1,10:00 NCAA Softball UIC vs.Indiana State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187607
+#EXTINF:-1,10:00 NCAA Softball Butler vs.Villanova
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187608
+#EXTINF:-1,10:00 NCAA Softball George Mason vs.George Washington
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187609
+#EXTINF:-1,10:00 NCAA Softball St.Bonaventure vs.Rhode Island
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187610
+#EXTINF:-1,10:00 NCAA Softball Charlotte vs.South Florida
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187611
+#EXTINF:-1,10:00 NCAA Softball Charleston Southern vs.Gardner-Webb
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187612
+#EXTINF:-1,10:05 NCAA Softball Fairfield vs.Merrimack
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187613
+#EXTINF:-1,10:30 NCAA Softball Lafayette vs.East Tennessee State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187614
+#EXTINF:-1,10:30 NCAA Softball Cornell vs.Yale
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187615
+#EXTINF:-1,10:45 NCAA Softball Brown vs.Boston University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187616
+#EXTINF:-1,11:00 NCAA Softball Houston Christian vs.SE Louisiana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187617
+#EXTINF:-1,11:00 NCAA Softball Winthrop vs.Presbyterian
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187618
+#EXTINF:-1,11:00 NCAA Softball BYU vs.Omaha
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187619
+#EXTINF:-1,11:00 NCAA Softball East Texas A&M vs.Texas A&M-Corpus Christi
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187620
+#EXTINF:-1,11:00 NCAA Softball Canisius vs.Sacred Heart
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187621
+#EXTINF:-1,11:00 NCAA Softball Lipscomb vs.Bellarmine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187622
+#EXTINF:-1,11:00 NCAA Softball Saint Josephs vs.Saint Louis
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187623
+#EXTINF:-1,11:00 NCAA Softball Mercyhurst vs.Robert Morris
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187624
+#EXTINF:-1,11:00 NCAA Softball Georgetown vs.DePaul
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187625
+#EXTINF:-1,11:00 NCAA Softball East Carolina vs.Florida Atlantic
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187626
+#EXTINF:-1,11:00 NCAA Softball Akron vs.Ball State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187627
+#EXTINF:-1,11:00 NCAA Softball UTEP vs.Florida International
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187628
+#EXTINF:-1,11:00 NCAA Softball Stephen F.Austin vs.Lamar
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187629
+#EXTINF:-1,11:00 NCAA Softball Morehead State vs.SIU Edwardsville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187630
+#EXTINF:-1,11:00 NCAA Softball Austin Peay vs.Eastern Kentucky
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187631
+#EXTINF:-1,11:00 NCAA Softball Western Illinois vs.Southern Indiana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187632
+#EXTINF:-1,11:00 NCAA Softball Southeast Missouri State vs.UT Martin
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187633
+#EXTINF:-1,11:30 NCAA Softball Binghamton vs.Princeton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187634
+#EXTINF:-1,12:00 NCAA Softball Longwood vs.Wofford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187635
+#EXTINF:-1,12:00 NCAA Softball App State vs.Coastal Carolina
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187636
+#EXTINF:-1,12:00 NCAA Softball Bradley vs.Southern Illinois
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187637
+#EXTINF:-1,12:00 NCAA Softball Florida Gulf Coast vs.Queens University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187638
+#EXTINF:-1,12:00 NCAA Softball Drake vs.Illinois State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187639
+#EXTINF:-1,12:00 NCAA Softball St.Bonaventure vs.Rhode Island
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187640
+#EXTINF:-1,12:00 NCAA Softball Nicholls vs.Incarnate Word
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187641
+#EXTINF:-1,12:00 NCAA Softball Western Kentucky vs.Jacksonville State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187642
+#EXTINF:-1,12:00 NCAA Softball Evansville vs.Belmont
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187643
+#EXTINF:-1,12:00 NCAA Softball Central Arkansas vs.North Alabama
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187644
+#EXTINF:-1,12:00 NCAA Softball Providence vs.Creighton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187645
+#EXTINF:-1,12:00 NCAA Softball Tarleton State vs.UNC Greensboro
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187646
+#EXTINF:-1,12:00 NCAA Softball Memphis vs.UTSA
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187647
+#EXTINF:-1,12:00 NCAA Softball Charleston Southern vs.Gardner-Webb
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187648
+#EXTINF:-1,12:00 NCAA Softball McNeese vs.Northwestern State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187649
+#EXTINF:-1,12:00 NCAA Softball Valparaiso vs.Murray State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187650
+#EXTINF:-1,12:00 NCAA Softball UC Davis vs.UC San Diego
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187651
+#EXTINF:-1,12:30 NCAA Softball Cornell vs.Yale
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187652
+#EXTINF:-1,12:30 NCAA Softball Saint Peters vs.Pennsylvania
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187653
+#EXTINF:-1,12:30 NCAA Softball George Mason vs.George Washington
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187654
+#EXTINF:-1,12:30 NCAA Softball Dayton vs.Fordham
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187655
+#EXTINF:-1,13:00 NCAA Softball Saint Josephs vs.Saint Louis
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187656
+#EXTINF:-1,13:00 NCAA Softball Mercyhurst vs.Robert Morris
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187657
+#EXTINF:-1,13:00 NCAA Softball Tulsa vs.North Texas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187658
+#EXTINF:-1,13:00 NCAA Softball Southeast Missouri State vs.UT Martin
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187659
+#EXTINF:-1,13:00 NCAA Softball Delaware vs.Louisiana Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187660
+#EXTINF:-1,13:00 NCAA Softball Montana vs.Santa Clara
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187661
+#EXTINF:-1,13:00 NCAA Softball Louisiana vs.Southern Miss
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187662
+#EXTINF:-1,13:00 NCAA Softball UL Monroe vs.Texas State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187663
+#EXTINF:-1,13:00 NCAA Softball UMass Lowell vs.Boston University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187664
+#EXTINF:-1,13:00 NCAA Softball Marshall vs.Georgia State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187665
+#EXTINF:-1,13:00 NCAA Softball Akron vs.Ball State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187666
+#EXTINF:-1,13:00 NCAA Softball Canisius vs.Sacred Heart
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187667
+#EXTINF:-1,13:00 NCAA Softball #12 Arizona vs.#2 Texas Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187668
+#EXTINF:-1,13:00 NCAA Softball Cal State Northridge vs.Cal State Bakersfield
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187669
+#EXTINF:-1,13:00 NCAA Softball Weber State vs.Oregon State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187670
+#EXTINF:-1,13:00 NCAA Softball James Madison vs.Georgia Southern
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187671
+#EXTINF:-1,13:00 NCAA Softball Idaho State vs.San Diego
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187672
+#EXTINF:-1,13:00 NCAA Softball Lindenwood vs.Eastern Illinois
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187673
+#EXTINF:-1,13:30 NCAA Softball Binghamton vs.Princeton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187674
+#EXTINF:-1,13:30 NCAA Softball Lafayette vs.Radford
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187675
+#EXTINF:-1,13:30 NCAA Softball Harvard vs.St.Johns
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187676
+#EXTINF:-1,13:30 NCAA Softball Western Illinois vs.Southern Indiana
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187677
+#EXTINF:-1,13:30 NCAA Softball Morehead State vs.SIU Edwardsville
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187678
+#EXTINF:-1,13:30 NCAA Softball Austin Peay vs.Eastern Kentucky
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187679
+#EXTINF:-1,13:30 NCAA Softball Lipscomb vs.Bellarmine
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187680
+#EXTINF:-1,14:00 NCAA Softball Troy vs.South Alabama
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187681
+#EXTINF:-1,14:00 NCAA Softball Central Arkansas vs.North Alabama
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187682
+#EXTINF:-1,14:00 NCAA Softball Lindenwood vs.Eastern Illinois
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187683
+#EXTINF:-1,14:00 NCAA Softball McNeese vs.Northwestern State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187684
+#EXTINF:-1,14:00 NCAA Softball UC Santa Barbara vs.Cal Poly
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187685
+#EXTINF:-1,14:00 NCAA Softball Northern Colorado vs.Pacific
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187686
+#EXTINF:-1,14:00 NCAA Softball Kansas vs.Houston
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187687
+#EXTINF:-1,14:00 NCAA Softball Long Beach State vs.UC Riverside
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187688
+#EXTINF:-1,14:00 NCAA Softball Baylor vs.#22 UCF
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187689
+#EXTINF:-1,14:00 NCAA Softball Kennesaw State vs.Missouri State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187690
+#EXTINF:-1,14:00 NCAA Softball Omaha vs.Utah Tech
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187691
+#EXTINF:-1,14:30 NCAA Softball Providence vs.Creighton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187692
+#EXTINF:-1,14:30 NCAA Softball Florida Gulf Coast vs.Queens University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187693
+#EXTINF:-1,15:00 NCAA Softball Liberty vs.Middle Tennessee
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187694
+#EXTINF:-1,15:00 NCAA Softball North Dakota State vs.California Baptist
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187695
+#EXTINF:-1,15:00 NCAA Softball UAB vs.Wichita State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187696
+#EXTINF:-1,15:00 NCAA Softball Sacramento State vs.Seattle U
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187697
+#EXTINF:-1,11:00 NCAA Mens Volleyball Merrimack vs.Sacred Heart
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187698
+#EXTINF:-1,12:00 NCAA Mens Volleyball #16 Ohio State vs.#19 Purdue Fort Wayne
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187699
+#EXTINF:-1,14:00 NCAA Mens Volleyball Queens vs.#8 Loyola Chicago
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187700
+#EXTINF:-1,23:00 NCAA Mens Volleyball #1 UCLA vs.#3 Hawaii
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187701
+#EXTINF:-1,11:00 NCAA Mens Hockey Boston University vs.#14 UConn
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187702
+#EXTINF:-1,13:00 NCAA Womens Hockey #5 Northeastern vs.#4 Minnesota
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187703
+#EXTINF:-1,14:00 NCAA Mens Hockey Clarkson vs.#7 Quinnipiac
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187704
+#EXTINF:-1,14:00 NCAA Mens Hockey Northeastern vs.#15 Massachusetts
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187705
+#EXTINF:-1,17:00 NCAA Mens Hockey Merrimack vs.#5 Providence
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187706
+#EXTINF:-1,17:00 NCAA Mens Hockey Harvard vs.#9 Cornell
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187707
+#EXTINF:-1,17:00 NCAA Mens Hockey Colgate vs.#12 Dartmouth
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187708
+#EXTINF:-1,17:00 NCAA Mens Hockey #20 Union vs.Princeton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187709
+#EXTINF:-1,09:00 NCAA Womens Lacrosse #7 Florida vs.Kennesaw State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187710
+#EXTINF:-1,09:00 NCAA Mens Lacrosse St.Johns vs.Mercer
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187711
+#EXTINF:-1,10:00 NCAA Womens Lacrosse East Carolina vs.James Madison
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187712
+#EXTINF:-1,10:00 NCAA Mens Lacrosse Sacred Heart vs.Mount St.Marys
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187713
+#EXTINF:-1,10:00 NCAA Mens Lacrosse Marist vs.Merrimack
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187714
+#EXTINF:-1,10:00 NCAA Mens Lacrosse Quinnipiac vs.Canisius
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187715
+#EXTINF:-1,10:00 NCAA Mens Lacrosse #4 Harvard vs.#16 Pennsylvania
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187716
+#EXTINF:-1,10:00 NCAA Mens Lacrosse #14 Army vs.Boston University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187717
+#EXTINF:-1,10:00 NCAA Mens Lacrosse #17 Massachusetts vs.High Point
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187718
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Rhode Island vs.#25 Richmond
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187719
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Marquette vs.Niagara
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187720
+#EXTINF:-1,10:00 NCAA Mens Lacrosse Colgate vs.Bucknell
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187721
+#EXTINF:-1,10:00 NCAA Womens Lacrosse #16 Loyola Maryland vs.#24 Army
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187722
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Binghamton vs.UMBC
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187723
+#EXTINF:-1,10:00 NCAA Mens Lacrosse UMass Lowell vs.Binghamton
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187724
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Vermont vs.Bryant
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187725
+#EXTINF:-1,10:00 NCAA Mens Lacrosse #20 Towson vs.Villanova
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187726
+#EXTINF:-1,10:00 NCAA Mens Lacrosse Lehigh vs.Loyola Maryland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187727
+#EXTINF:-1,10:00 NCAA Womens Lacrosse VCU vs.St.Bonaventure
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187728
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Colgate vs.American University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187729
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Mount St.Marys vs.Delaware
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187730
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Holy Cross vs.Lehigh
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187731
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Bucknell vs.#5 Navy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187732
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Saint Josephs vs.George Mason
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187733
+#EXTINF:-1,10:00 NCAA Mens Lacrosse #3 Princeton vs.Yale
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187734
+#EXTINF:-1,10:00 NCAA Mens Lacrosse Brown vs.#11 Cornell
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187735
+#EXTINF:-1,10:00 NCAA Mens Lacrosse St.Bonaventure vs.#18 Saint Josephs
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187736
+#EXTINF:-1,10:00 NCAA Womens Lacrosse Davidson vs.Duquesne
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187737
+#EXTINF:-1,10:00 NCAA Womens Lacrosse South Florida vs.Temple
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187738
+#EXTINF:-1,11:00 NCAA Mens Lacrosse Detroit Mercy vs.Robert Morris
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187739
+#EXTINF:-1,11:00 NCAA Mens Lacrosse Lafayette vs.Holy Cross
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187740
+#EXTINF:-1,11:00 NCAA Womens Lacrosse Old Dominion vs.Charlotte
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187741
+#EXTINF:-1,11:00 NCAA Mens Lacrosse Jacksonville vs.NJIT
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187742
+#EXTINF:-1,11:00 NCAA Mens Lacrosse Navy vs.#12 Johns Hopkins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187743
+#EXTINF:-1,11:00 NCAA Mens Lacrosse Mercyhurst vs.Cleveland State
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187744
+#EXTINF:-1,11:00 NCAA Womens Lacrosse Kent State vs.Eastern Michigan
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187745
+#EXTINF:-1,12:00 NCAA Mens Lacrosse Bryant vs.UAlbany
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187746
+#EXTINF:-1,12:00 NCAA Womens Lacrosse Arizona State vs.Mercer
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187747
+#EXTINF:-1,13:00 NCAA Mens Lacrosse Delaware vs.#2 Richmond
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187748
+#EXTINF:-1,13:30 NCAA Womens Lacrosse Lafayette vs.Boston University
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187749
+#EXTINF:-1,13:30 NCAA Womens Lacrosse UConn vs.#6 Yale
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187750
+#EXTINF:-1,14:00 NCAA Womens Lacrosse Liberty vs.High Point
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187751
+#EXTINF:-1,11:00 NCAA Tennis Big 12 CrossCourt Cast
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187752
+#EXTINF:-1,10:25 NCAA Track & Field NCAA Mens & Womens Indoor Track & Field Championships
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187753
+#EXTINF:-1,14:55 NCAA Track & Field NCAA Mens & Womens Indoor Track & Field Championships
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187754
+#EXTINF:-1,Lacrosse | NLL 17:30 Vancouver Warriors vs.Georgia Swarm
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187755
+#EXTINF:-1,Lacrosse | NLL 19:00 San Diego Seals vs.Saskatchewan Rush
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187756
+#EXTINF:-1,Lacrosse | NLL 19:00 Ottawa Black Bears vs.Calgary Roughnecks
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187757
+#EXTINF:-1,MLB 01 | 11:05 Baltimore Orioles vs Pittsburgh Pirates
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187758
+#EXTINF:-1,MLB 02 | 11:05 Tampa Bay Rays vs Minnesota Twins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187759
+#EXTINF:-1,MLB 03 | 11:05 Philadelphia Phillies vs New York Yankees
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187760
+#EXTINF:-1,MLB 04 | 11:07 Detroit Tigers vs Toronto Blue Jays
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187761
+#EXTINF:-1,MLB 05 | 14:05 Arizona Diamondbacks vs San Francisco Giants
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187762
+#EXTINF:-1,MLB 06 | 14:05 San Diego Padres vs Texas Rangers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187763
+#EXTINF:-1,MLB 07 | 14:05 Los Angeles Dodgers vs Chicago White Sox
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187764
+#EXTINF:-1,MLB 08 | 14:10 Cleveland Guardians vs San Diego Padres
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187765
+#EXTINF:-1,MLB 09 | 16:05 New York Mets vs Houston Astros
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187766
+#EXTINF:-1,MLB 10 | 16:05 Boston Red Sox vs Atlanta Braves
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187767
+#EXTINF:-1,Beisbol | Clasico Mundial 13:00 Puerto Rico at Italy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187768
+#EXTINF:-1,Beisbol | Clasico Mundial 19:00 Japon vs Venezuela
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187769
+#EXTINF:-1,NBA 01 | Mar-14-2026 12:00PM | Brooklyn Nets at Philadelphia 76ers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187770
+#EXTINF:-1,NBA 02 | Mar-14-2026 2:00PM | Milwaukee Bucks at Atlanta Hawks
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187771
+#EXTINF:-1,NBA 03 | 13:30 Hornets vs. Spurs Español
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187772
+#EXTINF:-1,NBA 05 | Mar-14-2026 2:30PM | Charlotte Hornets at San Antonio Spurs
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187773
+#EXTINF:-1,NBA 03 | Mar-14-2026 5:00PM | Washington Wizards at Boston Celtics
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187774
+#EXTINF:-1,NBA 04 | Mar-14-2026 7:00PM | Orlando Magic at Miami Heat
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187775
+#EXTINF:-1,NBA 06 | Mar-14-2026 7:30PM | Denver Nuggets at Los Angeles Lakers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187776
+#EXTINF:-1,NBA 07 | Mar-14-2026 9:30PM | Sacramento Kings at LA Clippers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187777
+#EXTINF:-1,Basket | ACB 13:00 Tenerife vs. Valencia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187778
+#EXTINF:-1,Basket | Clasif Mundial Fem 07:00 Nigeria vs. Philippines
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187779
+#EXTINF:-1,Basket | Clasif Mundial Fem 08:30 Argentina vs. Canada
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187780
+#EXTINF:-1,Basket | Clasif Mundial Fem 10:00 Korea Republic vs. Colombia
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187781
+#EXTINF:-1,Basket | Clasif Mundial Fem 11:30 Japan vs. Türkiye
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187782
+#EXTINF:-1,Basket | Clasif Mundial Fem 12:00 Senegal vs. New Zealand
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187783
+#EXTINF:-1,Basket | Clasif Mundial Fem 13:30 Germany vs. France
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187784
+#EXTINF:-1,Basket | Clasif Mundial Fem 15:00 United States vs.Italy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187785
+#EXTINF:-1,Basket | Clasif Mundial Fem 18:00 Spain vs. Puerto Rico
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187786
+#EXTINF:-1,Basket | Clasif Mundial Fem 23:30 Mali vs. Brazil
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187787
+#EXTINF:-1,Basket | SLB 12:00 Surrey 89ers vs. Sheffield Sharks
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187788
+#EXTINF:-1,NHL 01 |11:00  Anaheim Ducks vs.Ottawa Senators
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187789
+#EXTINF:-1,NHL 02 | 13:00 Washington Capitals vs Boston Bruins
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187790
+#EXTINF:-1,NHL 03 | 14:00 Colorado Avalanche vs.Winnipeg Jets
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187791
+#EXTINF:-1,NHL 04 | 16:00 New York Rangers vs.Minnesota Wild
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187792
+#EXTINF:-1,NHL 05 | 17:00 Carolina Hurricanes vs.Tampa Bay Lightning
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187793
+#EXTINF:-1,NHL 06 | 17:00 San Jose Sharks vs.Montreal Canadiens
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187794
+#EXTINF:-1,NHL 07 | 17:00 Los Angeles Kings vs.New Jersey Devils
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187795
+#EXTINF:-1,NHL 08 | 17:00 Calgary Flames vs.New York Islanders
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187796
+#EXTINF:-1,NHL 09 | 17:00 Buffalo Sabres vs Toronto Maple Leafs
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187797
+#EXTINF:-1,NHL 10 | 17:30 Columbus Blue Jackets vs.Philadelphia Flyers
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187798
+#EXTINF:-1,NHL 11 | 18:00 Detroit Red Wings vs.Dallas Stars
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187799
+#EXTINF:-1,NHL 12 | 19:00 Pittsburgh Penguins vs.Utah Mammoth
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187800
+#EXTINF:-1,NHL 13 | 20:00 Seattle Kraken vs.Vancouver Canucks
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187801
+#EXTINF:-1,NHL 14 | 20:00 Chicago Blackhawks vs.Vegas Golden Knights
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187802
+#EXTINF:-1,ATP | 08:00 Challenger de Santiago - Dove Men Care (Semifinales)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187803
+#EXTINF:-1,ATP | 14:30 BNP Paribas Open (Semifinal)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187804
+#EXTINF:-1,ATP | 19:00 BNP Paribas Open / Stadium 1 (Doubles Final)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187805
+#EXTINF:-1,WTA | 12:00 WTA BNP Paribas Open / Stadium 1 (Doubles Final)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187806
+#EXTINF:-1,Golf | 06:00 PGA TOUR PGA TOUR LIVE BetCast  (Third Round)
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187807
 #EXTINF:-1,Golf | 06:00 PGA TOUR THE PLAYERS Championship Featured Holes #3 #12 #16 & #17
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187277
-#EXTINF:-1,Golf | 06:02 PGA TOUR THE PLAYERS Championship All Access Group 23
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187278
-#EXTINF:-1,Golf | 06:02 PGA TOUR THE PLAYERS Championship All Access Group 34
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187279
-#EXTINF:-1,Golf | 06:14 PGA TOUR THE PLAYERS Championship All Access Group 35
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187280
-#EXTINF:-1,Golf | 06:14 PGA TOUR THE PLAYERS Championship All Access Group 24
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187281
-#EXTINF:-1,Golf | 06:26 PGA TOUR THE PLAYERS Championship All Access Group 25
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187282
-#EXTINF:-1,Golf | 06:26 PGA TOUR THE PLAYERS Championship All Access Group 36
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187283
-#EXTINF:-1,Golf | 06:30 PGA TOUR THE PLAYERS Championship Spieth & Rose Featured Groups
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187284
-#EXTINF:-1,Golf | 06:33 PGA TOUR THE PLAYERS Championship All Access Group 30
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187285
-#EXTINF:-1,Golf | 06:38 PGA TOUR THE PLAYERS Championship All Access Group 37
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187286
-#EXTINF:-1,Golf | 06:44 PGA TOUR THE PLAYERS Championship All Access Group 31
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187287
-#EXTINF:-1,Golf | 06:50 PGA TOUR THE PLAYERS Championship All Access Group 38
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187288
-#EXTINF:-1,Golf | 06:55 PGA TOUR THE PLAYERS Championship All Access Group 44
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187289
-#EXTINF:-1,Golf | 07:02 PGA TOUR THE PLAYERS Championship All Access Group 39
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187290
-#EXTINF:-1,Golf | 07:14 PGA TOUR THE PLAYERS Championship All Access Group 40
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187291
-#EXTINF:-1,Golf | 07:14 PGA TOUR THE PLAYERS Championship All Access Group 29
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187292
-#EXTINF:-1,Golf | 07:26 PGA TOUR THE PLAYERS Championship All Access Group 30
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187293
-#EXTINF:-1,Golf | 07:26 PGA TOUR THE PLAYERS Championship All Access Group 41
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187294
-#EXTINF:-1,Golf | 07:38 PGA TOUR THE PLAYERS Championship All Access Group 31
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187295
-#EXTINF:-1,Golf | 10:28 PGA TOUR THE PLAYERS Championship All Access Group 11
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187296
-#EXTINF:-1,Golf | 10:28 PGA TOUR THE PLAYERS Championship All Access Group 1
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187297
-#EXTINF:-1,Golf | 10:40 PGA TOUR THE PLAYERS Championship All Access Group 2
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187298
-#EXTINF:-1,Golf | 10:40 PGA TOUR THE PLAYERS Championship All Access Group 12
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187299
-#EXTINF:-1,Golf | 10:52 PGA TOUR THE PLAYERS Championship All Access Group 3
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187300
-#EXTINF:-1,Golf | 10:52 PGA TOUR THE PLAYERS Championship All Access Group 13
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187301
-#EXTINF:-1,Golf | 11:00 PGA TOUR THE PLAYERS Championship Featured Hole #16
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187302
-#EXTINF:-1,Golf | 11:00 PGA TOUR THE PLAYERS Championship Featured Hole #17
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187303
-#EXTINF:-1,Golf | 11:00 PGA TOUR THE PLAYERS Championship Scheffler Featured Group
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187304
-#EXTINF:-1,Golf | 11:00 PGA TOUR THE PLAYERS Championship Koepka Featured Group
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187305
-#EXTINF:-1,F1 | 01:30 Chinese GP - Sprint Qualifying
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187306
-#EXTINF:-1,F1 | 21:00 Chinese GP - Sprint
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187307
-#EXTINF:-1,F1 | 23:00 Chinese GP Post-Sprint Show
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187308
-#EXTINF:-1,Motor | 06:10 Safari Rally Kenya: Stage 8
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187309
-#EXTINF:-1,Motor | 07:00 Safari Rally Kenya: Stage 9
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187310
-#EXTINF:-1,Motor | 08:10 Safari Rally Kenya: Stage 10
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187311
-#EXTINF:-1,Motor | 23:40 Safari Rally Kenya: Stage 11
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187312
-#EXTINF:-1,Ciclismo | 08:00 Paris-Nice: Stage 6
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187313
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187808
+#EXTINF:-1,Golf | 06:00 PGA TOUR THE PLAYERS Championship Main Feed
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187809
+#EXTINF:-1,Golf | 06:23 PGA TOUR THE PLAYERS Championship All Access Group 1
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187810
+#EXTINF:-1,Golf | 06:33 PGA TOUR THE PLAYERS Championship All Access Group 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187811
+#EXTINF:-1,Golf | 06:43 PGA TOUR THE PLAYERS Championship All Access Group 3
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187812
+#EXTINF:-1,Golf | 06:53 PGA TOUR -THE PLAYERS Championship All Access Group 4
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187813
+#EXTINF:-1,Golf | 07:00 PGA TOUR THE PLAYERS Championship Featured Groups
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187814
+#EXTINF:-1,Golf | 07:03 PGA TOUR THE PLAYERS Championship All Access Group 5
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187815
+#EXTINF:-1,Golf | 07:13 PGA TOUR THE PLAYERS Championship All Access Group 6
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187816
+#EXTINF:-1,Golf | 07:23 PGA TOUR THE PLAYERS Championship All Access Group 7
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187817
+#EXTINF:-1,Golf | 07:33 PGA TOUR THE PLAYERS Championship All Access Group 8
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187818
+#EXTINF:-1,Golf | 07:48 PGA TOUR THE PLAYERS Championship All Access Group 9
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187819
+#EXTINF:-1,Golf | 07:58 PGA TOUR THE PLAYERS Championship All Access Group 10
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187820
+#EXTINF:-1,Golf | 08:08 PGA TOUR THE PLAYERS Championship All Access Group 11
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187821
+#EXTINF:-1,Golf | 08:18 PGA TOUR THE PLAYERS Championship All Access Group 12
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187822
+#EXTINF:-1,Golf | 08:28 PGA TOUR THE PLAYERS Championship All Access Group 13
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187823
+#EXTINF:-1,Golf | 08:38 PGA TOUR THE PLAYERS Championship All Access Group 14
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187824
+#EXTINF:-1,Golf | 08:58 PGA TOUR THE PLAYERS Championship All Access Group 16
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187825
+#EXTINF:-1,Golf | 09:13 PGA TOUR THE PLAYERS Championship All Access Group 17
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187826
+#EXTINF:-1,Golf | 09:23 PGA TOUR THE PLAYERS Championship All Access Group 18
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187827
+#EXTINF:-1,Golf | 09:33 PGA TOUR THE PLAYERS Championship All Access Group 19
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187828
+#EXTINF:-1,Golf | 09:43 PGA TOUR THE PLAYERS Championship All Access Group 20
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187829
+#EXTINF:-1,Golf | 10:03 PGA TOUR THE PLAYERS Championship All Access Group 22
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187830
+#EXTINF:-1,Golf | 10:13 PGA TOUR THE PLAYERS Championship All Access Group 23
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187831
+#EXTINF:-1,Golf | 10:23 PGA TOUR THE PLAYERS Championship All Access Group 24
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187832
+#EXTINF:-1,Golf | 10:38 PGA TOUR THE PLAYERS Championship All Access Group 25
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187833
+#EXTINF:-1,Golf | 10:48 PGA TOUR THE PLAYERS Championship All Access Group 26
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187834
+#EXTINF:-1,Golf | 10:58 PGA TOUR THE PLAYERS Championship All Access Group 27
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187835
+#EXTINF:-1,Golf | 11:18 PGA TOUR THE PLAYERS Championship All Access Group 29
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187836
+#EXTINF:-1,Golf | 11:28 PGA TOUR THE PLAYERS Championship All Access Group 30
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187837
+#EXTINF:-1,Golf | 11:38 PGA TOUR THE PLAYERS Championship All Access Group 31
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187838
+#EXTINF:-1,Golf | 11:53 PGA TOUR THE PLAYERS Championship All Access Group 32
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187839
+#EXTINF:-1,Golf | 12:00 PGA TOUR THE PLAYERS Championship Featured Group 1
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187840
+#EXTINF:-1,Golf | 12:00 PGA TOUR THE PLAYERS Championship Featured Hole #17
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187841
+#EXTINF:-1,Golf | 12:00 PGA TOUR THE PLAYERS Championship Featured Group 2
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187842
+#EXTINF:-1,Golf | 12:00 PGA TOUR THE PLAYERS Championship Featured Hole #12
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187843
+#EXTINF:-1,Motor | 15:30 NASCAR The LIUNA! Las Vegas
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187844
+#EXTINF:-1,Motor | 06:05 Safari Rally Kenya: Stage 14
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187845
+#EXTINF:-1,Motor | 07:00 Safari Rally Kenya: Stage 15
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187846
+#EXTINF:-1,Motor | 08:00 Safari Rally Kenya: Stage 16
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187847
+#EXTINF:-1,Motor | 23:10 Safari Rally Kenya: Stage 17
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187848
+#EXTINF:-1,F1 | 01:00 Chinese GP - Qualifying
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187849
+#EXTINF:-1,BOX | 10:00 Dickens vs. Cacace: Prelims
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187850
+#EXTINF:-1,BOX | 13:00 Dickens vs. Cacace Main Event
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187851
+#EXTINF:-1,BOX | 14:00 Barboza Jr. vs. Sims Jr.: Prelims
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187852
+#EXTINF:-1,BOX | 18:00 Barboza Jr. vs. Sims Jr. Main Event Español
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187853
+#EXTINF:-1,BOX | 18:00 Barboza Jr. vs. Sims Jr. Main Event English
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187854
+#EXTINF:-1,UFC | 14:00 UFC Fight Night Español
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187855
+#EXTINF:-1,UFC | 14:00 UFC Fight Night English
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187856
+#EXTINF:-1,UFC | 18:00 UFC Fight Night: Multiview
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187857
+#EXTINF:-1,Rugby | Six Nations 08:10 Ireland v. Scotland
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187858
+#EXTINF:-1,Rugby | Six Nations 10:40 Wales v. Italy
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187859
+#EXTINF:-1,Rugby | Six Nations 14:10 France v. England
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187860
+#EXTINF:-1,ASC CL | 15:00 Hrs | Magallanes vs Dep. Temuco
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187861
+#EXTINF:-1,ASC CL | 15:00 Hrs | Magallanes vs Dep. Temuco
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187862
+#EXTINF:-1,ASC CL | 17:30 Hrs | San Luis vs Dep. Copiapo
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187863
+#EXTINF:-1,ASC CL | 17:30 Hrs | San Luis vs Dep. Copiapo
+http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/187864
 #EXTINF:-1,Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/163945
 #EXTINF:-1,Adultos + 18 - XXX:XXL (M)(720)
@@ -21941,7 +22783,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150451.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150452.ts
 #EXTINF:-1, ESP-7: Canal Parlamento SD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150453.ts
-#EXTINF:-1, ESP-7: Canal San Roque *HD
+#EXTINF:-1, ESP-7: Canal San Roque *FHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150454.ts
 #EXTINF:-1, ESP-7: Canal Super 33 *FHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150455.ts
