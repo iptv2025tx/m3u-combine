@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-14T05:10:51.041465 UTC
+# Generated on 2026-03-14T08:37:39.369852 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
