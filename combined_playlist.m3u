@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-16T02:32:25.181527 UTC
+# Generated on 2026-03-16T05:49:24.521524 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -12757,7 +12757,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/2825.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/2826.ts
 #EXTINF:-1, LATAM | PASIONES ®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/2827.ts
-#EXTINF:-1, LATAM | SONY ®
+#EXTINF:-1, LATAM | SONY CHANNEL SUR ®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/3007.ts
 #EXTINF:-1, LATAM | SPACE ®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/3008.ts
@@ -13587,7 +13587,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4267.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4271.ts
 #EXTINF:-1, XXX:PINKO_LA2
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4280.ts
-#EXTINF:-1, CINE: SONY CHANNEL MX SD
+#EXTINF:-1, CINE: SONY CHANNEL MX  SDT/SD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4285.ts
 #EXTINF:-1, CINE: FILM&ARTS MX
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4287.ts
@@ -13755,7 +13755,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4798.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4799.ts
 #EXTINF:-1, LATAM General | HBO MUNDI
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4800.ts
-#EXTINF:-1, LATAM General | SONY
+#EXTINF:-1, LATAM General | SONY ARG. HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4801.ts
 #EXTINF:-1, LATAM General | SPACE
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/4802.ts
@@ -15449,7 +15449,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7981.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7982.ts
 #EXTINF:-1, CINE: HBO UHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7983.ts
-#EXTINF:-1, CINE: HBO FAMILY HD
+#EXTINF:-1, CINE: HBO FAMILY HD/UHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7984.ts
 #EXTINF:-1, CINE: HBO MUNDI UHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7985.ts
@@ -15473,7 +15473,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7994.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7995.ts
 #EXTINF:-1, CINE: CINE PREMIER +
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7996.ts
-#EXTINF:-1, CINE: SONY MX UHD®
+#EXTINF:-1, CINE: SONY CHANNEL MX UHD®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7997.ts
 #EXTINF:-1, CINE: GOLDEN MX HD®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/7998.ts
@@ -21575,13 +21575,13 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150106.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150107.ts
 #EXTINF:-1, CINE: SPACE UHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150108.ts
-#EXTINF:-1, CINE: SPACE MX UHD
+#EXTINF:-1, CINE: SPACE MX UHD Opc.2
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150109.ts
 #EXTINF:-1, CINE: SPACE MX HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150110.ts
 #EXTINF:-1, CINE: PARAMOUNT NETWORK MX HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150111.ts
-#EXTINF:-1, CINE: SONY  UHD
+#EXTINF:-1, CINE: SONY Channel HD/UHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150112.ts
 #EXTINF:-1, CINE: SONY MX UHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/150113.ts
@@ -27587,7 +27587,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300397.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300398.ts
 #EXTINF:-1, DE: SIXX (FHD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300399.ts
-#EXTINF:-1, DE: Sony Channel (FHD)
+#EXTINF:-1, DE: AXN Channel (FHD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300400.ts
 #EXTINF:-1, DE: SR Fernsehen (HD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/300401.ts
@@ -28173,6 +28173,8 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/309132.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/313640.ts
 #EXTINF:-1, ᴸᴵᴳᴬ ᴹˣ | ESPN 4 (Eventos) FHD®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/314720.ts
+#EXTINF:-1, LATAM | CLARO SPORTS 2®
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328059.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
