@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-17T02:10:59.635833 UTC
+# Generated on 2026-03-17T05:22:07.588883 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -28235,6 +28235,10 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/313640.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/314720.ts
 #EXTINF:-1, LATAM | CLARO SPORTS 2®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328059.ts
+#EXTINF:-1, 17/03 11:00 UTC-6: Fenerbahce vs Gazişehir Gaziantep FK
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328060.ts
+#EXTINF:-1, 18/03 17:30 UTC-6: América-RN vs ABC
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328061.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
