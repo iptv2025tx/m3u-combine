@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-17T20:40:24.224523 UTC
+# Generated on 2026-03-18T02:23:09.415340 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -7569,9 +7569,9 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/153365
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189004
 #EXTINF:-1,PPV 2 - Eventos 2 (e)(720)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178775
-#EXTINF:-1,PPV 3 - Eventos 3 (e)(1080)
+#EXTINF:-1,PPV 3 - Clasico Mundial de Besibol Final - Venezuela Vs. Estados Unidos (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178776
-#EXTINF:-1,PPV 4 - Eventos 4 (e)(1080)
+#EXTINF:-1,PPV 4 - Clasico Mundial de Besibol Final - Venezuela Vs. Estados Unidos (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/178777
 #EXTINF:-1,PPV 1 - encoder New (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/185769
@@ -12127,22 +12127,12 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189082
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189083
 #EXTINF:-1,Concachampions | 21:00 Cruz Azul vs Monterrey
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189084
-#EXTINF:-1,UCL | 11:45 Sporting CP vs. Bodø/Glimt
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189085
-#EXTINF:-1,UCL | 14:00 Arsenal vs Leverkusen
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189086
-#EXTINF:-1,UCL | 14:00 Chelsea vs. Paris Saint-Germain
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189087
-#EXTINF:-1,UCL | 14:00 Manchester City vs. Real Madrid
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189088
 #EXTINF:-1,Arg | 16:00 Lanús vs Newell's Old Boys
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189089
 #EXTINF:-1,Arg | 18:15 Central Córdoba SdE vs Deportivo Riestra
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189090
 #EXTINF:-1,Arg | 18:15 Gimnasia y Esgrima (MZA) vs. Estudiantes de La Plata
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189091
-#EXTINF:-1,Colombia | 15:10 Llaneros vs Cúcuta Deportivo
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189092
 #EXTINF:-1,Colombia | 17:20 Atlético Bucaramanga vs Once Caldas
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189093
 #EXTINF:-1,Colombia | 19:30 Millonarios vs Atlético Nacional
@@ -12151,32 +12141,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189094
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189095
 #EXTINF:-1,League One | 14:00 Barnsley vs. Wigan Athletic
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189096
-#EXTINF:-1,UEFA YOUTH LEAGUE | 07:00 Atlético de Madrid vs Club Brugge
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189097
-#EXTINF:-1,UEFA YOUTH LEAGUE | 09:00 Villarreal vs PSG
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189098
-#EXTINF:-1,Concacaf Women's Under-17  | 10:00 México vs. Jamaica
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189099
-#EXTINF:-1,Concacaf Women's Under-17 | 10:06 Costa Rica vs. Panamá
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189100
-#EXTINF:-1,Concacaf Women's Under-17 | 12:30 Estados Unidos vs. Bermuda
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189101
-#EXTINF:-1,Concacaf Women's Under-17 | 12:36 Puerto Rico vs. Haiti
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189102
-#EXTINF:-1,Concacaf Women's Under-17 | 15:00 Canadá vs. Nicaragua
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189103
-#EXTINF:-1,Concacaf Women's Under-17 | 15:06 El Salvador vs. República Dominicana
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189104
-#EXTINF:-1,Copa de la Reina | 13:00 Tenerife vs. Atlético de Madrid
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189105
-#EXTINF:-1,Turquía | 11:00 Fenerbahce vs. Gaziantep
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189106
 #EXTINF:-1,USL Super League | 09:30 DC Power vs. Carolina Ascent
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189107
-#EXTINF:-1,Segunda Uruguay | 15:00 Tacuarembó vs. La Luz
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189108
-#EXTINF:-1,Arg Torneo de Res | 12:00 Sarmiento Res. vs Gimnasia La Plata Res.
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189109
 #EXTINF:-1,Australia Women | 23:30 Melbourne City FC vs.Adelaide United
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189110
 #EXTINF:-1,BFA Premier League | 17:00 St.Andrew Lions vs Gall Hill
@@ -12189,14 +12155,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189113
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189114
 #EXTINF:-1,Copa de Brasil | 18:30 Portuguesa vs Paysandu
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189115
-#EXTINF:-1,Ecuador | 15:30 Universidad Católica vs Deportivo Cuenca
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189116
 #EXTINF:-1,Ecuador | 18:00 Leones del Norte vs LDU Quito
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189117
-#EXTINF:-1,National Francia | 12:30 Stade Briochin vs Châteauroux
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189118
-#EXTINF:-1,Polonia | 12:00 Jagiellonia Białystok vs Katowice
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189119
 #EXTINF:-1,U.S. Open Cup | 17:00 Vermont Green FC vs. Portland Hearts of Pine
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189120
 #EXTINF:-1,U.S. Open Cup | 18:00 Indy Eleven vs. Des Moines Menace
@@ -12295,18 +12255,8 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189271
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189272
 #EXTINF:-1,Hockey | PWHL Womne 17:00 Boston Fleet vs Toronto Sceptres
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189273
-#EXTINF:-1,WTA | 09:00 Miami Open Presented by Itaú / Court 1
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189274
-#EXTINF:-1,WTA | 09:00 Miami Open Presented by Itaú / Court 7
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189275
-#EXTINF:-1,WTA | 09:00 Miami Open Presented by Itaú / Grandstand
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189276
-#EXTINF:-1,WTA | 09:00 Miami Open Presented by Itaú / Butch Buchholz
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189277
 #EXTINF:-1,WTA | 17:00 Miami Open Presented by Itaú / Stadium
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189278
-#EXTINF:-1,Premier Padel | 15:00 Cancún - Centre Court (Primera Ronda)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189279
 #EXTINF:-1,Premier Padel | 17:00 Cancún - Secondary Court (Primera Ronda)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189280
 #EXTINF:-1,Beisbol | Clasico Mundial 18:00 USA vs Venezuela Español
@@ -12315,22 +12265,6 @@ http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189281
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189282
 #EXTINF:-1,WWE NXT (2026-03-17 17:45:00)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189283
-#EXTINF:-1,CHAMPIONS • 01 | 12:45 Sporting Lisboa vs Bodø/Glim 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189284
-#EXTINF:-1,CHAMPIONS • 02 | 12:45 Sporting Lisboa vs Bodø/Glim 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189285
-#EXTINF:-1,CHAMPIONS • 03 | 15:00 Chelsea vs PSG 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189286
-#EXTINF:-1,CHAMPIONS • 04 | 15:00 Chelsea vs PSG 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189287
-#EXTINF:-1,CHAMPIONS • 05 | 15:00 Manchester City vs Real Madrid 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189288
-#EXTINF:-1,CHAMPIONS • 06 | 15:00 Manchester City vs Real Madrid 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189289
-#EXTINF:-1,CHAMPIONS • 07 | 15:00 Arsenal vs Leverkusen 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189290
-#EXTINF:-1,CHAMPIONS • 08 | 15:00 Arsenal vs Leverkusen 17-03 (Z)
-http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189291
 #EXTINF:-1,PPV 3 - Encoder New 3 (e)(1080)
 http://tv.diablotv.net:8080/eEiiLll09384Ecaiman34RtR/KTap2pdJx7/189293
 #EXTINF:-1,Adultos + 18 - XXX:X1  TUSHY 2 TV  (M)(1080)
@@ -18191,7 +18125,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/130479.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/130480.ts
 #EXTINF:-1, CANADA | ABC | HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/130481.ts
-#EXTINF:-1, USA: Baby TV USA
+#EXTINF:-1, USA: Baby TV FHD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/130991.ts
 #EXTINF:-1, USA: BBC America HD USA
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/130992.ts
@@ -18265,7 +18199,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131027.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131028.ts
 #EXTINF:-1, USA: CNBC HD USA
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131029.ts
-#EXTINF:-1, USA: CNBC World HD USA
+#EXTINF:-1, USA: CNBC World HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131030.ts
 #EXTINF:-1, USA: CNN FHD US.*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131031.ts
@@ -18563,7 +18497,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131179.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131180.ts
 #EXTINF:-1, USA: NBC KXAS
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131181.ts
-#EXTINF:-1, USA: NBC (KNBC-LOS ANGELES) USA
+#EXTINF:-1, USA: NBC (KNBC-LOS ANGELES) HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131182.ts
 #EXTINF:-1, USA: NBC Michigan DETROIT WDIV
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131183.ts
@@ -18687,7 +18621,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131241.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131243.ts
 #EXTINF:-1, USA: World Fishing Network HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131244.ts
-#EXTINF:-1, USA: WMFP Boston
+#EXTINF:-1, USA: CBS Boston HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131245.ts
 #EXTINF:-1, USA: Willow Cricket HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131246.ts
@@ -18703,7 +18637,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131250.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131251.ts
 #EXTINF:-1, USA: DISCOVERY Velocity
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131252.ts
-#EXTINF:-1, USA: USA Network HD
+#EXTINF:-1, USA: USA Network FHD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131253.ts
 #EXTINF:-1, USA: Universal Kids HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131254.ts
@@ -18711,7 +18645,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131254.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131255.ts
 #EXTINF:-1, USA: TV Land
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131256.ts
-#EXTINF:-1, USA: Tru TV HD
+#EXTINF:-1, USA: TRUTV HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131257.ts
 #EXTINF:-1, USA: Tru TV
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131258.ts
@@ -18735,7 +18669,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131266.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131267.ts
 #EXTINF:-1, USA: Bein 6
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131268.ts
-#EXTINF:-1, USA: A&E HD
+#EXTINF:-1, USA: A&E HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131269.ts
 #EXTINF:-1, USA: ABC FHD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131270.ts
@@ -18801,7 +18735,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131310.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131311.ts
 #EXTINF:-1, USA: CMT
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131312.ts
-#EXTINF:-1, USA: American Heroes
+#EXTINF:-1, USA: American Heroes HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131313.ts
 #EXTINF:-1, USA: Animal Planet
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131314.ts
@@ -18821,7 +18755,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131320.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131321.ts
 #EXTINF:-1, USA: Logo
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131322.ts
-#EXTINF:-1, USA: Paramount Channel
+#EXTINF:-1, USA: Paramount Channel FHD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131323.ts
 #EXTINF:-1, USA: TCM HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/131324.ts
@@ -20661,7 +20595,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145444.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145445.ts
 #EXTINF:-1, Sports | Liga Pro ECUADOR HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145446.ts
-#EXTINF:-1, Sports | GOLTV USA ʜᴅ
+#EXTINF:-1, Sports | FUBO Sports Network USA ʜᴅ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145447.ts
 #EXTINF:-1, Sports | WIN SPORTS
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/145448.ts
@@ -21505,7 +21439,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148835.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148836.ts
 #EXTINF:-1, USA: HBO HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148837.ts
-#EXTINF:-1, USA: INESP Western & Movies: Classics
+#EXTINF:-1, USA: Starz Encore Western & Movies
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148864.ts
 #EXTINF:-1, USA: HBO SIGNATURE HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148865.ts
@@ -21513,7 +21447,7 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148865.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148866.ts
 #EXTINF:-1, USA: TNT HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148867.ts
-#EXTINF:-1, USA: A&E HD
+#EXTINF:-1, USA: A&E Opc. 2 HD*
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148868.ts
 #EXTINF:-1, USA: AMC HD
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/148869.ts
@@ -28367,6 +28301,12 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328065.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328066.ts
 #EXTINF:-1, 17/03 17:20 UTC-6: Atlético Bucaramanga vs Once Caldas
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328067.ts
+#EXTINF:-1, 17/03 19:30 UTC-6: Millonarios vs Atlético Nacional
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328068.ts
+#EXTINF:-1, 18/03 18:00 UTC-6: Deportivo Mictlan vs Deportivo Malacateco
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328069.ts
+#EXTINF:-1, 18/03 18:00 UTC-6: Libertad vs Barcelona SC
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328070.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
