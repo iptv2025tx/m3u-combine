@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-19T08:43:08.995598 UTC
+# Generated on 2026-03-19T13:07:06.507766 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -28303,30 +28303,6 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328069.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328070.ts
 #EXTINF:-1, 19/03 14:00 UTC-6: FC Porto vs Stuttgart
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328071.ts
-#EXTINF:-1, 18/03 14:00 UTC-6: Tottenham vs Atlético de Madrid
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328073.ts
-#EXTINF:-1, 18/03 14:00 UTC-6: Bayern Munich vs Atalanta
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328074.ts
-#EXTINF:-1, 18/03 14:00 UTC-6: Liverpool vs Galatasaray
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328075.ts
-#EXTINF:-1, 18/03 15:30 UTC-6: Fuerte San Francisco vs Inter FA
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328076.ts
-#EXTINF:-1, 18/03 16:00 UTC-6: Palmeiras vs Botafogo
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328077.ts
-#EXTINF:-1, 18/03 17:00 UTC-6: Inter Miami vs Nashville SC
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328078.ts
-#EXTINF:-1, 18/03 15:10 UTC-6: Deportivo Pasto vs Boyacá Chicó
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328080.ts
-#EXTINF:-1, 18/03 13:00 UTC-6: Al Ahli Jeddah vs Al Hilal Riyadh
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328082.ts
-#EXTINF:-1, 18/03 13:00 UTC-6: Al-Kholood vs Ittihad Jeddah
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328083.ts
-#EXTINF:-1, 18/03 14:00 UTC-6: FC Barcelona (F) vs Levante Badalona (F)
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328084.ts
-#EXTINF:-1, 18/03 15:30 UTC-6: Rubio Ñú vs Cerro Porteño
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328085.ts
-#EXTINF:-1, 18/03 16:00 UTC-6: Jalapa Art vs Real Madriz
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328086.ts
 #EXTINF:-1, 18/03 17:15 UTC-6: CD Olimpia vs Olancho
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328087.ts
 #EXTINF:-1, 18/03 17:30 UTC-6: América-RN vs ABC
@@ -28355,6 +28331,24 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328098.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328099.ts
 #EXTINF:-1, 20/03 15:00 UTC-6: Águilas Doradas vs América de Cali
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328100.ts
+#EXTINF:-1, 19/03 11:45 UTC-6: Lyon vs Celta de Vigo
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328101.ts
+#EXTINF:-1, 19/03 11:45 UTC-6: Friburgo vs KRC Genk
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328102.ts
+#EXTINF:-1, 19/03 12:36 UTC-6: Jamaica Sub17 (F) vs Costa Rica Sub17 (F)
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328103.ts
+#EXTINF:-1, 19/03 13:00 UTC-6: Flamengo Sub20 vs Olimpia Sub20
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328104.ts
+#EXTINF:-1, 19/03 14:00 UTC-6: Aston Villa vs Lille
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328105.ts
+#EXTINF:-1, 19/03 14:00 UTC-6: AS Roma vs Bologna
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328106.ts
+#EXTINF:-1, 19/03 16:00 UTC-6: Grêmio vs Vitória
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328107.ts
+#EXTINF:-1, 19/03 17:00 UTC-6: River Plate (Reserva) vs Atlético Tucumán (Reserva)
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328108.ts
+#EXTINF:-1, 19/03 17:00 UTC-6: Sportivo Trinidense vs Sportivo Ameliano
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328109.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
