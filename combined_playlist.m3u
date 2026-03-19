@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-18T20:38:16.360676 UTC
+# Generated on 2026-03-19T02:24:09.482053 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -26895,36 +26895,10 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237596.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237597.ts
 #EXTINF:-1, F1 GP | F1 DAZN Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237789.ts
-#EXTINF:-1, F1 GP | 81 | Piastri | McLaren Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237790.ts
-#EXTINF:-1, F1 GP  | 77 | Bottas | Sauber Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237791.ts
-#EXTINF:-1, F1 GP | 63 | Russell | Mercedes Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237792.ts
-#EXTINF:-1, F1 GP | 55 | Sainz | Ferrari Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237793.ts
-#EXTINF:-1, F1 GP | 44 | Hamilton | Mercedes Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237794.ts
-#EXTINF:-1, F1 GP | 4 | Norris | McLaren Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237795.ts
-#EXTINF:-1, F1 GP | 31 |  Ocon | Alpine Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237796.ts
-#EXTINF:-1, F1 GP | 27 | Hulkenberg | Haas Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237797.ts
-#EXTINF:-1, F1 GP | 24 | Guanyu | Sauber Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237798.ts
-#EXTINF:-1, F1 GP | 23 | Albon | Williams Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237799.ts
-#EXTINF:-1, F1 GP | 22 | Yuki Tsunoda | Red B Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237800.ts
 #EXTINF:-1, F1 GP | 21 | Ricciardo | RB Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237801.ts
 #EXTINF:-1, F1 GP | 2 | Sargeant | Williams Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237802.ts
-#EXTINF:-1, F1 GP | 18 | Stroll | Aston Martin Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237803.ts
-#EXTINF:-1, F1 GP | 16 | Charles Leclerc | Ferrari Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237804.ts
 #EXTINF:-1, F1 GP | 14 | Alonso | Aston Martin Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/237805.ts
 #EXTINF:-1, F1 GP | 11 | Perez | Red Bull Racing Fᴴᴰ
@@ -27065,12 +27039,8 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/282201.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/282305.ts
 #EXTINF:-1, F1 GP | RALLY TV (FHD)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/282591.ts
-#EXTINF:-1, F1 GP | 30 | Liam Lawson | Racing Bulls Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/283410.ts
 #EXTINF:-1, F1 GP | 24 | Gabriel Bortoleto | Sauber Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/283411.ts
-#EXTINF:-1, F1 GP | 6 | Isack Hadjar | Racing Bulls Fᴴᴰ
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/283478.ts
 #EXTINF:-1, F1 GP | ? | Colapinto | Alpine Fᴴᴰ
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/283482.ts
 #EXTINF:-1, F1 GP | 12 | Kimi Antonelli | Mercedes-AMG Fᴴᴰ
@@ -28373,6 +28343,24 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328088.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328089.ts
 #EXTINF:-1, 18/03 19:00 UTC-6: Tlaxcala vs Atlante
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328090.ts
+#EXTINF:-1, 18/03 18:30 UTC-6: Atlético Bucaramanga vs Once Caldas
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328091.ts
+#EXTINF:-1, 18/03 19:00 UTC-6: Municipal Limeño vs Platense Municipal
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328092.ts
+#EXTINF:-1, 18/03 20:07 UTC-6: Chivas de Guadalajara vs León
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328093.ts
+#EXTINF:-1, 19/03 10:06 UTC-6: Nicaragua Sub17 (F) vs El Salvador Sub17 (F)
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328094.ts
+#EXTINF:-1, 19/03 11:00 UTC-6: Besiktas vs Kasimpasa
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328095.ts
+#EXTINF:-1, 19/03 11:45 UTC-6: FC Midtjylland vs Nottingham Forest
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328096.ts
+#EXTINF:-1, 19/03 14:00 UTC-6: Real Betis vs Panathinaikos
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328097.ts
+#EXTINF:-1, 19/03 17:00 UTC-6: Mount Pleasant vs Los Angeles Galaxy
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328098.ts
+#EXTINF:-1, 20/03 14:00 UTC-6: Villarreal CF vs Real Sociedad
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328099.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
