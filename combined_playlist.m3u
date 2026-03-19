@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-19T05:22:28.670750 UTC
+# Generated on 2026-03-19T08:43:08.995598 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -28295,8 +28295,6 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/313640.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/314720.ts
 #EXTINF:-1, LATAM | CLARO SPORTS 2®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328059.ts
-#EXTINF:-1, 18/03 11:00 UTC-6: Eyupspor vs Trabzonspor
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328064.ts
 #EXTINF:-1, 17/03 19:30 UTC-6: Millonarios vs Atlético Nacional
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328068.ts
 #EXTINF:-1, 18/03 18:00 UTC-6: Deportivo Mictlan vs Deportivo Malacateco
@@ -28305,8 +28303,6 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328069.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328070.ts
 #EXTINF:-1, 19/03 14:00 UTC-6: FC Porto vs Stuttgart
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328071.ts
-#EXTINF:-1, 18/03 11:45 UTC-6: FC Barcelona vs Newcastle United
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328072.ts
 #EXTINF:-1, 18/03 14:00 UTC-6: Tottenham vs Atlético de Madrid
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328073.ts
 #EXTINF:-1, 18/03 14:00 UTC-6: Bayern Munich vs Atalanta
@@ -28319,12 +28315,8 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328076.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328077.ts
 #EXTINF:-1, 18/03 17:00 UTC-6: Inter Miami vs Nashville SC
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328078.ts
-#EXTINF:-1, 18/03 09:30 UTC-6: SC Braga vs Ferencvaros
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328079.ts
 #EXTINF:-1, 18/03 15:10 UTC-6: Deportivo Pasto vs Boyacá Chicó
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328080.ts
-#EXTINF:-1, 18/03 12:00 UTC-6: Altona 93 vs Werder Bremen II
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328081.ts
 #EXTINF:-1, 18/03 13:00 UTC-6: Al Ahli Jeddah vs Al Hilal Riyadh
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328082.ts
 #EXTINF:-1, 18/03 13:00 UTC-6: Al-Kholood vs Ittihad Jeddah
@@ -28361,6 +28353,8 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328097.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328098.ts
 #EXTINF:-1, 20/03 14:00 UTC-6: Villarreal CF vs Real Sociedad
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328099.ts
+#EXTINF:-1, 20/03 15:00 UTC-6: Águilas Doradas vs América de Cali
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328100.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
