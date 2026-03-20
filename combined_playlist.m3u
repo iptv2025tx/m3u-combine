@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Generated on 2026-03-20T08:41:57.482085 UTC
+# Generated on 2026-03-20T13:02:06.472024 UTC
 
 #PLAYLIST:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
 #EXTGRP:x get.php?username=live:persian_share&password=Hs6guU9ziF&type=m3u_plus&output=ts
@@ -28277,24 +28277,12 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/313640.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/314720.ts
 #EXTINF:-1, LATAM | CLARO SPORTS 2®
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328059.ts
-#EXTINF:-1, 19/03 14:00 UTC-6: FC Porto vs Stuttgart
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328071.ts
-#EXTINF:-1, 19/03 14:00 UTC-6: Real Betis vs Panathinaikos
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328097.ts
 #EXTINF:-1, 19/03 17:00 UTC-6: Mount Pleasant vs Los Angeles Galaxy
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328098.ts
 #EXTINF:-1, 20/03 14:00 UTC-6: Villarreal CF vs Real Sociedad
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328099.ts
 #EXTINF:-1, 20/03 15:00 UTC-6: Águilas Doradas vs América de Cali
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328100.ts
-#EXTINF:-1, 19/03 13:00 UTC-6: Flamengo Sub20 vs Olimpia Sub20
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328104.ts
-#EXTINF:-1, 19/03 14:00 UTC-6: Aston Villa vs Lille
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328105.ts
-#EXTINF:-1, 19/03 14:00 UTC-6: AS Roma vs Bologna
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328106.ts
-#EXTINF:-1, 19/03 16:00 UTC-6: Grêmio vs Vitória
-http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328107.ts
 #EXTINF:-1, 19/03 17:00 UTC-6: River Plate (Reserva) vs Atlético Tucumán (Reserva)
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328108.ts
 #EXTINF:-1, 19/03 17:00 UTC-6: Sportivo Trinidense vs Sportivo Ameliano
@@ -28365,6 +28353,10 @@ http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328140.ts
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328141.ts
 #EXTINF:-1, 20/03 13:00 UTC-6: Pau FC vs Montpellier
 http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328142.ts
+#EXTINF:-1, 20/03 13:00 UTC-6: Leicester City Sub21 vs Aston Villa Sub21
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328143.ts
+#EXTINF:-1, 20/03 18:15 UTC-6: San Lorenzo vs Deportivo Rincón
+http://00322.xyz:8000/channel/PmPLUS/2048dw23Do0/328144.ts
 #EXTINF:-1, Millennium 1: Los hombres que no amaban a las mujeres (2009)
 http://00322.xyz:8000/vod/PmPLUS/2048dw23Do0/125957.mp4
 #EXTINF:-1, Latte y la Piedra de Agua Mágica (2019)
