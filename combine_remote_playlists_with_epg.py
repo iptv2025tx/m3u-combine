@@ -17,7 +17,7 @@ PLAYLISTS = [
 EPG_URL = "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # Output file
-OUTPUT_FILE = "combined_playlist.m3u"
+OUTPUT_FILE = "dr_playlist.m3u"
 
 # ===== FUNCTIONS =====
 def get_playlist_name(url):
