@@ -15,7 +15,7 @@ PLAYLISTS = [
 ]
 
 # EPG URL
-EPG_URL = "https://github.com/iptv2025tx/light-epg/raw/refs/heads/main/epgs/light-epg.xml.gz"
+EPG_URL = "https://tinyurl.com/drepg"
 
 # Output file
 OUTPUT_FILE = "dr_playlist.m3u"
