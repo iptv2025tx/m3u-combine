@@ -12,6 +12,8 @@ PLAYLISTS = [
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/ott-news.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/religion.m3u8", 
         "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/heart.m3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/PlutoUS.M3u8", 
+        "https://github.com/iptv2025tx/star-jump/raw/refs/heads/main/link/ott/SSUNGUS.m3u8", 
     # Add more playlists here in the format: "URL_TO_PLAYLIST"
 ]
 
