@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://tinyurl.com/drepg"
-# Generated on 2026-03-27T04:38:06.938503 UTC
+# Generated on 2026-03-27T07:10:48.902114 UTC
 
 #PLAYLIST:x drew-custom
 #EXTGRP:x drew-custom
@@ -13425,8 +13425,10 @@ https://jmp2.uk/stvp-US3500004M7
 https://jmp2.uk/stvp-USBD4200008RS
 #EXTINF:-1 tvg-id="US2000012KX" tvg-name="Genie K-Drama" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2000012KX_20250813T151513SQUARE.png" group-title="ENG | Entertainment",Genie K-Drama
 https://jmp2.uk/stvp-US2000012KX
-#EXTINF:-1 tvg-id="US350000563" tvg-name="GET Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000563_20260303T094114SQUARE.png" group-title="ENG | Entertainment",GET Comedy
+#EXTINF:-1 tvg-id="US350000563" tvg-name="Great Comedy" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US350000563_20260303T094114SQUARE.png" group-title="ENG | Entertainment",Great Comedy
 https://jmp2.uk/stvp-US350000563
+#EXTINF:-1 tvg-id="USBD1200002PM" tvg-name="Great TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png" group-title="ENG | Entertainment",Great TV
+https://jmp2.uk/stvp-USBD1200002PM
 #EXTINF:-1 tvg-id="US4700029QM" tvg-name="Gotham Comedy Live" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US4700029QM_20260310T031325SQUARE.png" group-title="ENG | Entertainment",Gotham Comedy Live
 https://jmp2.uk/stvp-US4700029QM
 #EXTINF:-1 tvg-id="USBD1200009JI" tvg-name="History & Warfare Now" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200009JI_20250401T004831SQUARE.png" group-title="ENG | Entertainment",History & Warfare Now
@@ -13707,8 +13709,6 @@ https://jmp2.uk/stvp-USBA300035FV
 https://jmp2.uk/stvp-US2900007HA
 #EXTINF:-1 tvg-id="USBB32000196O" tvg-name="FilmRise Western" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB32000196O_20260324T032124SQUARE.png" group-title="ENG | Westerns",FilmRise Western
 https://jmp2.uk/stvp-USBB32000196O
-#EXTINF:-1 tvg-id="USBD1200002PM" tvg-name="Great TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200002PM_20241112T002029SQUARE.png" group-title="ENG | Westerns",Great TV
-https://jmp2.uk/stvp-USBD1200002PM
 #EXTINF:-1 tvg-id="USBC24000213P" tvg-name="Grit Xtra" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC24000213P_20250616T221715SQUARE.png" group-title="ENG | Westerns",Grit Xtra
 https://jmp2.uk/stvp-USBC24000213P
 #EXTINF:-1 tvg-id="US44000027B" tvg-name="Grjngo" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US44000027B_20250204T014310SQUARE.png" group-title="ENG | Westerns",Grjngo
